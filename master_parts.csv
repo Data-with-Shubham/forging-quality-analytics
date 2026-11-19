@@ -1,0 +1,5 @@
+part_code,part_name,material,dim_nominal_mm,dim_lsl_mm,dim_usl_mm,hardness_min_hrc,hardness_max_hrc
+PF-101,Connecting Rod Blank,C45,52.0,51.9,52.1,22,30
+PF-102,Crank Gear Forging,EN8,78.5,78.35,78.65,26,34
+PF-103,Flange Yoke,SAE 4140,64.0,63.88,64.12,28,36
+PF-104,Hub Flange,EN19,95.0,94.8,95.2,30,38

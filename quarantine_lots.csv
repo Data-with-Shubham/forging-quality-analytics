@@ -1,0 +1,117 @@
+lot_id,production_date,shift,machine_id,part_code,die_id,die_strokes_at_lot,produced_qty,inspected_qty,rejected_qty,hardness_hrc,reject_reason
+L00002,2025-10-01,A,,PF-104,D-104A,7874,1006,297,7,37.4,missing machine_id
+L00009,2025-10-02,A,FP-03,PF-103,D-103A,5218,521,115,165,35.2,rejected > inspected
+L00020,2025-10-03,C,FP-02,PF-101,D-101A,3902,811,177,3,95.0,hardness out of range
+L00030,2025-10-04,C,FP-04,PF-103,D-103B,6305,546,-119,3,33.7,invalid inspected_qty; rejected > inspected
+L00034,2025-10-05,A,FP-02,PF-101,D-101B,11310,697,167,1,95.0,hardness out of range
+L00036,2025-10-05,B,FP-01,PF-101,D-101B,12057,747,128,4,95.0,hardness out of range
+L00048,2025-10-07,A,FP-04,PF-101,D-101A,6445,489,77,127,26.9,rejected > inspected
+L00055,2025-10-08,C,FP-03,PF-103,D-103B,13499,974,207,257,31.4,rejected > inspected
+L00058,2025-10-08,A,,PF-103,D-103B,14200,701,118,2,32.1,missing machine_id
+L00068,2025-10-09,A,,PF-102,D-102A,18821,934,178,2,29.4,missing machine_id
+L00074,2025-10-10,C,FP-02,PF-104,D-104A,16156,1029,-281,7,34.1,invalid inspected_qty; rejected > inspected
+L00078,2025-10-11,A,FP-02,PF-104,D-104A,16944,788,-167,8,35.4,invalid inspected_qty; rejected > inspected
+L00082,2025-10-11,A,FP-03,PF-103,D-103A,9488,656,108,3,95.0,hardness out of range
+L00083,2025-10-11,B,FP-03,PF-101,D-101B,18081,695,140,1,95.0,hardness out of range
+L00095,2025-10-13,B,FP-04,PF-102,D-102A,23292,973,-265,12,30.6,invalid inspected_qty; rejected > inspected
+L00107,2025-10-15,C,FP-03,PF-104,D-104A,23287,528,101,151,33.2,rejected > inspected
+L00109,2025-10-15,A,,PF-102,D-102A,23891,599,120,5,32.0,missing machine_id
+L00113,2025-10-15,B,,PF-103,D-103B,20236,454,122,1,30.8,missing machine_id
+L00131,2025-10-18,A,FP-02,PF-101,D-101A,14019,730,-152,7,25.3,invalid inspected_qty; rejected > inspected
+L00135,2025-10-18,C,FP-04,PF-103,D-103B,21556,535,141,4,95.0,hardness out of range
+L00138,2025-10-19,B,FP-01,PF-103,D-103A,13861,1054,199,249,31.4,rejected > inspected
+L00163,2025-10-22,A,FP-02,PF-103,D-103A,18735,563,-122,3,29.4,invalid inspected_qty; rejected > inspected
+L00173,2025-10-23,A,FP-03,PF-103,D-103A,21795,1069,301,351,33.4,rejected > inspected
+L00181,2025-10-24,A,FP-01,PF-101,D-101A,24841,529,122,3,95.0,hardness out of range
+L00186,2025-10-25,B,FP-02,PF-101,D-101A,25511,670,128,2,95.0,hardness out of range
+L00191,2025-10-26,C,FP-02,PF-103,D-103B,30924,914,171,6,95.0,hardness out of range
+L00224,2025-10-30,B,FP-03,PF-102,D-102A,2265,721,207,3,95.0,hardness out of range
+L00232,2025-10-31,B,FP-01,PF-101,D-101A,33163,936,243,16,95.0,hardness out of range
+L00241,2025-11-01,B,,PF-103,D-103A,27082,433,97,5,31.9,missing machine_id
+L00244,2025-11-02,C,FP-04,PF-101,D-101A,35571,770,-120,13,26.5,invalid inspected_qty; rejected > inspected
+L00250,2025-11-03,B,FP-03,PF-102,D-102A,4535,511,126,1,95.0,hardness out of range
+L00253,2025-11-03,B,FP-04,PF-101,D-101B,37298,958,212,15,95.0,hardness out of range
+L00258,2025-11-04,B,FP-04,PF-104,D-104A,10657,969,278,328,31.8,rejected > inspected
+L00263,2025-11-04,C,FP-04,PF-102,D-102A,8025,921,156,206,30.7,rejected > inspected
+L00264,2025-11-04,C,,PF-101,D-101A,37024,564,93,11,24.7,missing machine_id
+L00273,2025-11-06,C,FP-04,PF-104,D-104A,15353,982,-269,3,32.7,invalid inspected_qty; rejected > inspected
+L00275,2025-11-06,A,,PF-103,D-103B,39356,1167,231,9,30.9,missing machine_id
+L00280,2025-11-07,B,FP-03,PF-102,D-102A,9177,736,146,196,31.5,rejected > inspected
+L00312,2025-11-11,B,FP-03,PF-104,D-104A,18468,447,81,131,32.6,rejected > inspected
+L00316,2025-11-11,A,FP-01,PF-101,D-101A,5606,540,-113,6,27.7,invalid inspected_qty; rejected > inspected
+L00367,2025-11-18,C,FP-04,PF-103,D-103B,3563,480,90,140,32.2,rejected > inspected
+L00381,2025-11-20,B,FP-04,PF-101,D-101A,16436,964,-196,5,27.1,invalid inspected_qty; rejected > inspected
+L00386,2025-11-21,B,FP-01,PF-101,D-101A,19064,477,-74,3,25.8,invalid inspected_qty; rejected > inspected
+L00391,2025-11-21,A,FP-03,PF-104,D-104A,25425,741,199,249,32.9,rejected > inspected
+L00414,2025-11-24,A,FP-04,PF-101,D-101A,24158,595,161,0,95.0,hardness out of range
+L00443,2025-11-28,C,FP-04,PF-101,D-101B,10686,602,162,212,29.4,rejected > inspected
+L00446,2025-11-28,B,FP-02,PF-103,D-103B,16918,643,160,2,95.0,hardness out of range
+L00449,2025-11-29,C,,PF-104,D-104A,30679,869,164,14,33.0,missing machine_id
+L00455,2025-11-30,A,,PF-101,D-101A,27444,1005,249,11,26.6,missing machine_id
+L00460,2025-11-30,A,FP-03,PF-103,D-103B,19583,413,-102,4,31.1,invalid inspected_qty; rejected > inspected
+L00482,2025-12-03,A,FP-03,PF-103,D-103B,23104,930,-191,6,33.0,invalid inspected_qty; rejected > inspected
+L00491,2025-12-04,A,FP-04,PF-103,D-103B,25806,786,-211,3,29.9,invalid inspected_qty; rejected > inspected
+L00499,2025-12-05,C,FP-03,PF-103,D-103A,22264,718,-207,13,33.0,invalid inspected_qty; rejected > inspected
+L00501,2025-12-06,A,FP-02,PF-101,D-101A,31989,869,229,279,29.3,rejected > inspected
+L00502,2025-12-06,A,FP-01,PF-101,D-101B,20470,872,204,254,22.2,rejected > inspected
+L00507,2025-12-07,B,,PF-104,D-104A,7273,689,133,4,31.3,missing machine_id
+L00508,2025-12-07,C,,PF-103,D-103A,22820,556,113,4,32.9,missing machine_id
+L00510,2025-12-07,B,,PF-101,D-101B,21280,810,191,9,25.7,missing machine_id
+L00516,2025-12-08,A,FP-04,PF-104,D-104A,8702,458,72,122,33.0,rejected > inspected
+L00518,2025-12-08,C,FP-04,PF-103,D-103B,30432,998,197,247,31.4,rejected > inspected
+L00520,2025-12-08,A,FP-02,PF-101,D-101B,22131,424,-76,4,25.1,invalid inspected_qty; rejected > inspected
+L00521,2025-12-08,B,FP-04,PF-103,D-103A,24459,639,157,207,34.4,rejected > inspected
+L00523,2025-12-09,A,FP-03,PF-101,D-101A,35169,731,-127,10,25.9,invalid inspected_qty; rejected > inspected
+L00528,2025-12-09,A,,PF-104,D-104A,10576,1150,304,4,32.2,missing machine_id
+L00529,2025-12-09,C,FP-04,PF-101,D-101B,23773,834,-194,10,26.1,invalid inspected_qty; rejected > inspected
+L00530,2025-12-10,A,,PF-103,D-103A,25370,420,77,2,32.6,missing machine_id
+L00531,2025-12-10,A,FP-03,PF-101,D-101A,36922,831,175,225,25.6,rejected > inspected
+L00541,2025-12-11,A,FP-02,PF-101,D-101B,25207,520,116,166,24.2,rejected > inspected
+L00549,2025-12-12,B,,PF-101,D-101A,39015,720,211,13,25.8,missing machine_id
+L00561,2025-12-14,C,FP-01,PF-101,D-101A,41349,976,-237,20,24.2,invalid inspected_qty; rejected > inspected
+L00564,2025-12-14,C,FP-01,PF-103,D-103B,40101,1008,-154,6,32.3,invalid inspected_qty; rejected > inspected
+L00624,2025-12-22,B,FP-02,PF-101,D-101A,9046,684,134,1,95.0,hardness out of range
+L00626,2025-12-22,A,FP-01,PF-101,D-101A,10186,1140,321,6,95.0,hardness out of range
+L00640,2025-12-24,C,,PF-101,D-101B,37209,1032,295,20,28.0,missing machine_id
+L00665,2025-12-27,B,FP-02,PF-104,D-104A,20087,508,110,160,35.0,rejected > inspected
+L00673,2025-12-28,C,FP-04,PF-102,D-102A,19692,540,147,197,27.9,rejected > inspected
+L00674,2025-12-29,A,FP-02,PF-102,D-102A,20597,905,188,4,95.0,hardness out of range
+L00680,2025-12-29,C,,PF-104,D-104A,21675,418,120,9,30.1,missing machine_id
+L00691,2025-12-31,B,,PF-102,D-102A,23790,1103,277,6,32.4,missing machine_id
+L00692,2025-12-31,B,FP-01,PF-101,D-101B,4846,1039,-222,2,26.4,invalid inspected_qty; rejected > inspected
+L00693,2025-12-31,A,FP-03,PF-101,D-101B,5372,526,-103,1,23.0,invalid inspected_qty; rejected > inspected
+L00710,2026-01-02,B,,PF-101,D-101B,9326,962,269,6,25.7,missing machine_id
+L00716,2026-01-03,A,FP-04,PF-104,D-104A,25941,422,-107,1,33.5,invalid inspected_qty; rejected > inspected
+L00718,2026-01-03,B,FP-02,PF-102,D-102A,27225,584,-123,6,30.4,invalid inspected_qty; rejected > inspected
+L00729,2026-01-05,B,FP-04,PF-103,D-103A,4585,1119,305,4,95.0,hardness out of range
+L00735,2026-01-06,B,,PF-102,D-102A,28999,908,241,11,31.7,missing machine_id
+L00740,2026-01-06,A,FP-04,PF-104,D-104A,26514,573,138,188,31.8,rejected > inspected
+L00751,2026-01-08,B,FP-03,PF-103,D-103A,6511,872,142,192,34.0,rejected > inspected
+L00752,2026-01-08,C,FP-03,PF-101,D-101A,27080,534,86,136,27.2,rejected > inspected
+L00776,2026-01-11,B,FP-04,PF-103,D-103A,10317,745,-205,4,31.9,invalid inspected_qty; rejected > inspected
+L00780,2026-01-12,B,FP-03,PF-101,D-101A,30181,786,-178,5,25.2,invalid inspected_qty; rejected > inspected
+L00788,2026-01-13,B,FP-02,PF-103,D-103A,11288,971,165,1,95.0,hardness out of range
+L00792,2026-01-13,A,,PF-103,D-103B,25294,930,231,4,31.6,missing machine_id
+L00801,2026-01-14,C,FP-03,PF-101,D-101B,21802,1066,185,12,95.0,hardness out of range
+L00802,2026-01-15,B,,PF-101,D-101B,22345,543,106,3,27.2,missing machine_id
+L00807,2026-01-15,C,FP-02,PF-102,D-102A,3298,997,171,4,95.0,hardness out of range
+L00813,2026-01-16,A,,PF-101,D-101B,23329,425,81,0,27.1,missing machine_id
+L00815,2026-01-16,B,FP-04,PF-104,D-104A,9195,725,139,2,95.0,hardness out of range
+L00830,2026-01-18,C,FP-01,PF-103,D-103A,14364,872,164,214,31.8,rejected > inspected
+L00831,2026-01-18,A,FP-01,PF-104,D-104A,14093,1131,-310,9,36.1,invalid inspected_qty; rejected > inspected
+L00856,2026-01-22,C,FP-01,PF-103,D-103A,19595,1092,233,4,95.0,hardness out of range
+L00858,2026-01-22,B,,PF-103,D-103A,20114,519,112,2,32.6,missing machine_id
+L00861,2026-01-22,B,FP-02,PF-103,D-103B,31224,503,83,4,95.0,hardness out of range
+L00865,2026-01-23,B,FP-04,PF-101,D-101A,41028,832,181,12,95.0,hardness out of range
+L00871,2026-01-24,C,FP-01,PF-101,D-101B,29304,730,216,266,25.7,rejected > inspected
+L00872,2026-01-24,B,,PF-104,D-104A,16280,599,123,3,34.5,missing machine_id
+L00880,2026-01-25,B,FP-04,PF-101,D-101B,31241,440,117,8,95.0,hardness out of range
+L00881,2026-01-25,C,,PF-103,D-103B,33355,530,128,5,28.7,missing machine_id
+L00861,2026-01-22,B,FP-02,PF-103,D-103B,31224,503,83,4,95.0,duplicate lot_id; hardness out of range
+L00881,2026-01-25,C,,PF-103,D-103B,33355,530,128,5,28.7,duplicate lot_id; missing machine_id
+L00875,2026-01-24,B,FP-03,PF-102,D-102A,19028,1002,235,7,28.5,duplicate lot_id
+L00781,2026-01-12,B,FP-04,PF-103,D-103B,23746,544,112,2,30.8,duplicate lot_id
+L00526,2025-12-09,A,FP-04,PF-102,D-102A,2906,1060,272,5,27.9,duplicate lot_id
+L00007,2025-10-01,A,FP-03,PF-102,D-102A,6911,1011,269,5,30.7,duplicate lot_id
+L00686,2025-12-30,C,FP-04,PF-101,D-101B,3807,671,157,4,26.2,duplicate lot_id
+L00196,2025-10-26,C,FP-02,PF-101,D-101A,27573,831,130,8,26.7,duplicate lot_id

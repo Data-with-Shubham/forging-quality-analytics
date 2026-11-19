@@ -1,0 +1,7 @@
+defect_type,defect_category,qty
+Dimensional,Tooling,1354
+Die Wear Mark,Tooling,1216
+Lap,Process,630
+Underfill,Process,575
+Scale Pit,Process,543
+Crack,Material,292

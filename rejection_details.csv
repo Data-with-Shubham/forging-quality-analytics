@@ -1,0 +1,2753 @@
+lot_id,defect_type,qty
+L00001,Underfill,1
+L00001,Die Wear Mark,1
+L00002,Dimensional,2
+L00002,Scale Pit,2
+L00002,Die Wear Mark,3
+L00003,Lap,1
+L00003,Underfill,1
+L00003,Dimensional,2
+L00004,Lap,1
+L00004,Dimensional,2
+L00004,Die Wear Mark,1
+L00005,Dimensional,1
+L00005,Scale Pit,1
+L00006,Die Wear Mark,1
+L00007,Underfill,2
+L00007,Dimensional,1
+L00007,Scale Pit,2
+L00008,Scale Pit,1
+L00010,Lap,1
+L00010,Scale Pit,1
+L00010,Die Wear Mark,1
+L00011,Lap,2
+L00011,Scale Pit,1
+L00012,Lap,1
+L00012,Dimensional,3
+L00012,Die Wear Mark,2
+L00013,Lap,1
+L00013,Dimensional,1
+L00013,Scale Pit,3
+L00013,Die Wear Mark,1
+L00014,Lap,1
+L00015,Crack,1
+L00016,Lap,1
+L00016,Scale Pit,1
+L00017,Lap,1
+L00017,Dimensional,2
+L00017,Scale Pit,1
+L00018,Underfill,1
+L00019,Crack,1
+L00019,Underfill,2
+L00019,Dimensional,2
+L00020,Underfill,1
+L00020,Dimensional,1
+L00020,Die Wear Mark,1
+L00021,Lap,1
+L00021,Crack,1
+L00021,Underfill,1
+L00021,Dimensional,1
+L00021,Die Wear Mark,1
+L00022,Lap,3
+L00022,Underfill,1
+L00022,Dimensional,2
+L00022,Die Wear Mark,2
+L00023,Lap,2
+L00023,Scale Pit,1
+L00023,Die Wear Mark,2
+L00025,Crack,1
+L00025,Underfill,1
+L00025,Dimensional,1
+L00025,Scale Pit,1
+L00025,Die Wear Mark,2
+L00026,Lap,2
+L00028,Lap,2
+L00028,Crack,1
+L00028,Underfill,1
+L00028,Dimensional,1
+L00030,Underfill,2
+L00030,Scale Pit,1
+L00031,Lap,1
+L00031,Dimensional,1
+L00031,Die Wear Mark,2
+L00032,Crack,1
+L00032,Underfill,1
+L00032,Dimensional,1
+L00032,Scale Pit,1
+L00033,Scale Pit,1
+L00034,Lap,1
+L00035,Lap,1
+L00035,Crack,1
+L00035,Dimensional,1
+L00036,Dimensional,2
+L00036,Scale Pit,1
+L00036,Die Wear Mark,1
+L00037,Lap,2
+L00037,Underfill,1
+L00037,Dimensional,1
+L00038,Underfill,1
+L00038,Die Wear Mark,1
+L00039,Lap,4
+L00039,Crack,2
+L00039,Dimensional,3
+L00039,Scale Pit,2
+L00039,Die Wear Mark,1
+L00040,Crack,2
+L00040,Dimensional,1
+L00041,Underfill,1
+L00042,Lap,1
+L00044,Crack,1
+L00044,Scale Pit,2
+L00044,Die Wear Mark,1
+L00045,Underfill,3
+L00045,Dimensional,3
+L00045,Scale Pit,1
+L00045,Die Wear Mark,2
+L00046,Lap,1
+L00046,Underfill,4
+L00046,Dimensional,1
+L00049,Lap,1
+L00049,Die Wear Mark,1
+L00050,Dimensional,1
+L00050,Scale Pit,2
+L00050,Die Wear Mark,2
+L00051,Lap,2
+L00051,Crack,1
+L00051,Underfill,3
+L00051,Scale Pit,1
+L00051,Die Wear Mark,1
+L00053,Underfill,5
+L00053,Dimensional,2
+L00053,Die Wear Mark,1
+L00054,Underfill,1
+L00055,Die Wear Mark,1
+L00056,Lap,2
+L00056,Underfill,1
+L00056,Dimensional,2
+L00056,Scale Pit,1
+L00056,Die Wear Mark,1
+L00057,Scale Pit,1
+L00058,Crack,1
+L00058,Scale Pit,1
+L00059,Dimensional,2
+L00059,Scale Pit,1
+L00060,Scale Pit,2
+L00060,Die Wear Mark,1
+L00061,Die Wear Mark,1
+L00062,Lap,1
+L00062,Underfill,1
+L00062,Dimensional,2
+L00062,Scale Pit,1
+L00062,Die Wear Mark,2
+L00063,Dimensional,1
+L00063,Scale Pit,2
+L00063,Die Wear Mark,1
+L00064,Lap,1
+L00064,Crack,1
+L00064,Underfill,1
+L00064,Scale Pit,1
+L00065,Crack,1
+L00065,Underfill,1
+L00065,Dimensional,3
+L00065,Scale Pit,1
+L00065,Die Wear Mark,1
+L00066,Lap,1
+L00066,Crack,1
+L00066,Dimensional,4
+L00066,Scale Pit,1
+L00067,Dimensional,1
+L00068,Crack,1
+L00068,Die Wear Mark,1
+L00069,Crack,1
+L00069,Underfill,1
+L00069,Die Wear Mark,1
+L00070,Lap,1
+L00070,Underfill,1
+L00070,Dimensional,3
+L00070,Scale Pit,1
+L00070,Die Wear Mark,2
+L00072,Crack,1
+L00072,Dimensional,2
+L00072,Die Wear Mark,1
+L00073,Crack,1
+L00074,Lap,1
+L00074,Crack,1
+L00074,Underfill,1
+L00074,Dimensional,3
+L00074,Die Wear Mark,1
+L00075,Underfill,2
+L00075,Dimensional,3
+L00075,Die Wear Mark,1
+L00076,Die Wear Mark,2
+L00077,Dimensional,1
+L00077,Die Wear Mark,1
+L00078,Lap,1
+L00078,Dimensional,3
+L00078,Scale Pit,1
+L00078,Die Wear Mark,3
+L00079,Underfill,2
+L00079,Dimensional,1
+L00079,Scale Pit,3
+L00079,Die Wear Mark,3
+L00080,Dimensional,3
+L00080,Scale Pit,2
+L00081,Crack,2
+L00081,Underfill,1
+L00081,Dimensional,3
+L00081,Die Wear Mark,1
+L00082,Dimensional,1
+L00082,Die Wear Mark,2
+L00083,Die Wear Mark,1
+L00084,Underfill,1
+L00084,Dimensional,1
+L00084,Die Wear Mark,1
+L00085,Lap,1
+L00085,Underfill,1
+L00085,Dimensional,4
+L00085,Scale Pit,1
+L00086,Lap,1
+L00086,Dimensional,4
+L00086,Scale Pit,3
+L00086,Die Wear Mark,1
+L00087,Scale Pit,1
+L00087,Die Wear Mark,2
+L00088,Dimensional,2
+L00089,Crack,1
+L00089,Underfill,1
+L00089,Dimensional,1
+L00089,Die Wear Mark,1
+L00090,Lap,2
+L00090,Crack,1
+L00090,Dimensional,2
+L00090,Die Wear Mark,1
+L00091,Crack,1
+L00091,Underfill,1
+L00091,Die Wear Mark,2
+L00092,Dimensional,1
+L00093,Lap,1
+L00093,Dimensional,2
+L00093,Scale Pit,1
+L00094,Lap,2
+L00094,Die Wear Mark,1
+L00095,Lap,1
+L00095,Crack,1
+L00095,Underfill,3
+L00095,Dimensional,4
+L00095,Die Wear Mark,3
+L00096,Underfill,1
+L00096,Dimensional,1
+L00096,Scale Pit,1
+L00097,Lap,1
+L00097,Dimensional,2
+L00097,Scale Pit,1
+L00097,Die Wear Mark,3
+L00098,Dimensional,1
+L00098,Scale Pit,2
+L00098,Die Wear Mark,1
+L00099,Lap,4
+L00099,Underfill,1
+L00099,Dimensional,2
+L00100,Crack,1
+L00100,Underfill,1
+L00100,Dimensional,3
+L00101,Crack,1
+L00102,Underfill,2
+L00102,Die Wear Mark,1
+L00103,Crack,1
+L00103,Dimensional,1
+L00103,Scale Pit,1
+L00103,Die Wear Mark,2
+L00104,Lap,2
+L00104,Underfill,1
+L00104,Dimensional,1
+L00104,Scale Pit,1
+L00105,Lap,1
+L00105,Dimensional,2
+L00106,Lap,1
+L00106,Underfill,1
+L00106,Dimensional,2
+L00106,Die Wear Mark,1
+L00107,Lap,1
+L00107,Dimensional,1
+L00107,Scale Pit,1
+L00107,Die Wear Mark,1
+L00108,Lap,2
+L00108,Crack,1
+L00108,Underfill,2
+L00108,Dimensional,8
+L00108,Die Wear Mark,2
+L00109,Lap,1
+L00109,Dimensional,2
+L00109,Scale Pit,1
+L00109,Die Wear Mark,1
+L00110,Lap,2
+L00110,Crack,1
+L00110,Dimensional,2
+L00110,Scale Pit,2
+L00110,Die Wear Mark,1
+L00111,Lap,1
+L00111,Dimensional,1
+L00111,Die Wear Mark,1
+L00112,Dimensional,1
+L00113,Dimensional,1
+L00114,Lap,2
+L00114,Crack,1
+L00114,Underfill,1
+L00114,Dimensional,1
+L00114,Scale Pit,2
+L00114,Die Wear Mark,2
+L00115,Lap,2
+L00115,Underfill,1
+L00115,Dimensional,4
+L00115,Scale Pit,2
+L00115,Die Wear Mark,2
+L00116,Lap,2
+L00116,Dimensional,1
+L00116,Scale Pit,8
+L00117,Lap,1
+L00117,Underfill,1
+L00118,Lap,1
+L00118,Crack,1
+L00118,Underfill,2
+L00118,Dimensional,3
+L00118,Die Wear Mark,1
+L00119,Lap,2
+L00119,Crack,1
+L00119,Underfill,1
+L00119,Dimensional,6
+L00119,Scale Pit,1
+L00119,Die Wear Mark,4
+L00120,Scale Pit,1
+L00120,Die Wear Mark,1
+L00121,Lap,1
+L00121,Dimensional,4
+L00121,Scale Pit,1
+L00121,Die Wear Mark,2
+L00122,Dimensional,2
+L00122,Scale Pit,1
+L00123,Crack,2
+L00123,Dimensional,5
+L00123,Scale Pit,2
+L00124,Lap,1
+L00124,Underfill,1
+L00124,Scale Pit,1
+L00124,Die Wear Mark,2
+L00125,Crack,1
+L00125,Dimensional,2
+L00125,Die Wear Mark,1
+L00126,Dimensional,2
+L00127,Dimensional,1
+L00127,Die Wear Mark,1
+L00128,Scale Pit,1
+L00128,Die Wear Mark,1
+L00129,Lap,11
+L00129,Underfill,3
+L00129,Dimensional,9
+L00129,Scale Pit,4
+L00129,Die Wear Mark,10
+L00130,Lap,1
+L00130,Die Wear Mark,1
+L00131,Dimensional,3
+L00131,Scale Pit,1
+L00131,Die Wear Mark,3
+L00132,Lap,1
+L00132,Crack,2
+L00132,Underfill,1
+L00132,Dimensional,2
+L00132,Scale Pit,2
+L00132,Die Wear Mark,6
+L00133,Lap,1
+L00133,Underfill,1
+L00133,Die Wear Mark,2
+L00134,Dimensional,3
+L00134,Scale Pit,2
+L00135,Lap,2
+L00135,Underfill,2
+L00136,Dimensional,2
+L00136,Scale Pit,1
+L00136,Die Wear Mark,3
+L00137,Dimensional,2
+L00138,Dimensional,1
+L00138,Scale Pit,1
+L00139,Underfill,4
+L00139,Scale Pit,1
+L00140,Lap,1
+L00140,Die Wear Mark,2
+L00141,Dimensional,4
+L00141,Die Wear Mark,5
+L00142,Lap,2
+L00142,Underfill,1
+L00142,Dimensional,4
+L00142,Scale Pit,3
+L00142,Die Wear Mark,1
+L00143,Lap,4
+L00143,Underfill,1
+L00143,Dimensional,1
+L00143,Scale Pit,1
+L00143,Die Wear Mark,4
+L00144,Lap,2
+L00145,Lap,1
+L00145,Underfill,1
+L00145,Dimensional,2
+L00145,Scale Pit,1
+L00145,Die Wear Mark,2
+L00146,Lap,1
+L00146,Dimensional,1
+L00146,Die Wear Mark,1
+L00147,Lap,2
+L00147,Die Wear Mark,2
+L00148,Underfill,1
+L00148,Dimensional,3
+L00148,Scale Pit,1
+L00148,Die Wear Mark,1
+L00149,Dimensional,1
+L00149,Die Wear Mark,3
+L00150,Crack,1
+L00152,Lap,1
+L00152,Crack,2
+L00152,Underfill,1
+L00152,Dimensional,3
+L00152,Die Wear Mark,3
+L00153,Lap,1
+L00153,Underfill,1
+L00153,Dimensional,3
+L00153,Scale Pit,1
+L00154,Underfill,1
+L00154,Die Wear Mark,2
+L00155,Lap,1
+L00155,Die Wear Mark,1
+L00156,Dimensional,1
+L00157,Crack,3
+L00157,Underfill,4
+L00157,Dimensional,6
+L00157,Scale Pit,1
+L00157,Die Wear Mark,6
+L00158,Lap,1
+L00158,Crack,1
+L00158,Underfill,1
+L00158,Dimensional,2
+L00158,Die Wear Mark,4
+L00159,Crack,2
+L00159,Underfill,3
+L00159,Dimensional,6
+L00159,Scale Pit,1
+L00159,Die Wear Mark,3
+L00160,Dimensional,1
+L00160,Die Wear Mark,2
+L00161,Lap,1
+L00161,Dimensional,1
+L00161,Scale Pit,1
+L00161,Die Wear Mark,1
+L00162,Lap,2
+L00162,Crack,1
+L00162,Underfill,3
+L00162,Dimensional,6
+L00162,Die Wear Mark,4
+L00163,Lap,1
+L00163,Scale Pit,2
+L00164,Dimensional,3
+L00164,Scale Pit,2
+L00165,Lap,1
+L00165,Underfill,1
+L00165,Dimensional,2
+L00165,Scale Pit,1
+L00165,Die Wear Mark,3
+L00166,Lap,1
+L00166,Underfill,1
+L00167,Lap,3
+L00167,Underfill,1
+L00167,Dimensional,1
+L00167,Scale Pit,1
+L00167,Die Wear Mark,4
+L00168,Lap,1
+L00168,Underfill,1
+L00168,Dimensional,4
+L00168,Scale Pit,1
+L00168,Die Wear Mark,4
+L00169,Underfill,2
+L00169,Dimensional,1
+L00169,Scale Pit,1
+L00169,Die Wear Mark,1
+L00170,Lap,1
+L00170,Underfill,2
+L00170,Dimensional,7
+L00170,Scale Pit,1
+L00170,Die Wear Mark,3
+L00171,Crack,1
+L00171,Underfill,1
+L00171,Dimensional,1
+L00171,Scale Pit,1
+L00171,Die Wear Mark,2
+L00172,Scale Pit,1
+L00173,Lap,4
+L00173,Crack,1
+L00173,Underfill,1
+L00173,Dimensional,4
+L00173,Scale Pit,1
+L00173,Die Wear Mark,4
+L00174,Lap,1
+L00174,Dimensional,1
+L00174,Die Wear Mark,1
+L00175,Lap,2
+L00175,Underfill,1
+L00175,Dimensional,4
+L00176,Crack,1
+L00176,Dimensional,1
+L00176,Die Wear Mark,4
+L00177,Lap,1
+L00177,Crack,1
+L00178,Dimensional,2
+L00179,Lap,1
+L00179,Underfill,1
+L00179,Dimensional,2
+L00180,Crack,1
+L00180,Underfill,1
+L00180,Dimensional,1
+L00180,Scale Pit,1
+L00180,Die Wear Mark,5
+L00181,Underfill,2
+L00181,Die Wear Mark,1
+L00182,Lap,1
+L00182,Crack,5
+L00182,Underfill,1
+L00182,Dimensional,5
+L00182,Scale Pit,3
+L00182,Die Wear Mark,2
+L00183,Crack,1
+L00183,Underfill,4
+L00183,Die Wear Mark,1
+L00184,Lap,3
+L00184,Dimensional,5
+L00184,Scale Pit,1
+L00184,Die Wear Mark,10
+L00185,Lap,2
+L00185,Underfill,2
+L00185,Dimensional,2
+L00185,Die Wear Mark,2
+L00186,Dimensional,2
+L00187,Scale Pit,1
+L00187,Die Wear Mark,2
+L00188,Lap,1
+L00188,Crack,1
+L00188,Dimensional,4
+L00188,Scale Pit,2
+L00188,Die Wear Mark,2
+L00189,Dimensional,1
+L00190,Lap,2
+L00190,Die Wear Mark,1
+L00191,Lap,1
+L00191,Crack,1
+L00191,Underfill,1
+L00191,Dimensional,1
+L00191,Scale Pit,1
+L00191,Die Wear Mark,1
+L00192,Underfill,2
+L00192,Dimensional,2
+L00193,Lap,1
+L00193,Dimensional,3
+L00193,Scale Pit,1
+L00193,Die Wear Mark,3
+L00194,Lap,2
+L00194,Crack,1
+L00194,Underfill,1
+L00194,Dimensional,2
+L00194,Scale Pit,1
+L00194,Die Wear Mark,3
+L00195,Dimensional,2
+L00195,Scale Pit,1
+L00195,Die Wear Mark,2
+L00196,Lap,2
+L00196,Underfill,2
+L00196,Dimensional,1
+L00196,Die Wear Mark,3
+L00197,Dimensional,2
+L00197,Die Wear Mark,4
+L00198,Crack,1
+L00199,Lap,1
+L00199,Dimensional,1
+L00199,Scale Pit,3
+L00199,Die Wear Mark,2
+L00200,Lap,3
+L00200,Crack,1
+L00200,Underfill,2
+L00200,Dimensional,3
+L00200,Scale Pit,1
+L00201,Lap,2
+L00201,Dimensional,3
+L00201,Scale Pit,2
+L00201,Die Wear Mark,4
+L00202,Die Wear Mark,1
+L00203,Lap,2
+L00203,Underfill,2
+L00203,Dimensional,1
+L00204,Dimensional,2
+L00204,Scale Pit,2
+L00205,Lap,1
+L00205,Dimensional,1
+L00205,Scale Pit,1
+L00205,Die Wear Mark,4
+L00206,Lap,2
+L00206,Dimensional,5
+L00206,Scale Pit,1
+L00206,Die Wear Mark,2
+L00207,Crack,2
+L00207,Underfill,1
+L00207,Dimensional,5
+L00207,Scale Pit,2
+L00207,Die Wear Mark,10
+L00208,Dimensional,1
+L00208,Scale Pit,1
+L00208,Die Wear Mark,1
+L00209,Lap,1
+L00209,Die Wear Mark,3
+L00210,Lap,1
+L00210,Crack,1
+L00210,Underfill,1
+L00210,Scale Pit,1
+L00210,Die Wear Mark,3
+L00211,Lap,3
+L00211,Crack,1
+L00211,Underfill,1
+L00211,Dimensional,1
+L00211,Scale Pit,2
+L00211,Die Wear Mark,2
+L00212,Dimensional,2
+L00212,Die Wear Mark,1
+L00213,Dimensional,1
+L00214,Lap,1
+L00214,Crack,1
+L00214,Underfill,3
+L00214,Scale Pit,1
+L00215,Lap,2
+L00215,Underfill,2
+L00215,Dimensional,4
+L00215,Scale Pit,1
+L00215,Die Wear Mark,3
+L00217,Lap,1
+L00217,Crack,1
+L00217,Underfill,2
+L00217,Dimensional,3
+L00218,Underfill,1
+L00218,Dimensional,1
+L00219,Crack,1
+L00219,Underfill,1
+L00219,Scale Pit,1
+L00220,Underfill,1
+L00220,Dimensional,3
+L00220,Die Wear Mark,5
+L00221,Crack,1
+L00221,Dimensional,2
+L00222,Lap,1
+L00222,Crack,1
+L00222,Underfill,1
+L00222,Dimensional,6
+L00222,Scale Pit,1
+L00222,Die Wear Mark,2
+L00223,Underfill,1
+L00223,Dimensional,2
+L00223,Scale Pit,1
+L00223,Die Wear Mark,4
+L00224,Lap,1
+L00224,Dimensional,1
+L00224,Scale Pit,1
+L00226,Lap,1
+L00226,Underfill,3
+L00226,Dimensional,3
+L00226,Scale Pit,1
+L00226,Die Wear Mark,2
+L00227,Lap,1
+L00227,Underfill,1
+L00227,Die Wear Mark,1
+L00228,Lap,1
+L00228,Underfill,1
+L00228,Dimensional,3
+L00228,Scale Pit,3
+L00228,Die Wear Mark,6
+L00230,Crack,1
+L00230,Dimensional,4
+L00230,Scale Pit,1
+L00230,Die Wear Mark,5
+L00231,Lap,1
+L00231,Dimensional,4
+L00231,Scale Pit,2
+L00231,Die Wear Mark,3
+L00232,Lap,5
+L00232,Crack,1
+L00232,Underfill,3
+L00232,Dimensional,4
+L00232,Scale Pit,1
+L00232,Die Wear Mark,2
+L00233,Lap,3
+L00233,Crack,3
+L00233,Underfill,3
+L00233,Dimensional,4
+L00233,Scale Pit,1
+L00233,Die Wear Mark,3
+L00234,Lap,1
+L00234,Underfill,1
+L00234,Dimensional,1
+L00234,Die Wear Mark,3
+L00235,Dimensional,1
+L00236,Crack,1
+L00236,Underfill,2
+L00236,Scale Pit,2
+L00239,Underfill,1
+L00240,Lap,1
+L00240,Underfill,1
+L00240,Dimensional,2
+L00240,Scale Pit,1
+L00240,Die Wear Mark,4
+L00241,Dimensional,1
+L00241,Scale Pit,2
+L00241,Die Wear Mark,2
+L00242,Lap,1
+L00244,Lap,3
+L00244,Dimensional,5
+L00244,Scale Pit,1
+L00244,Die Wear Mark,4
+L00245,Lap,1
+L00245,Crack,1
+L00245,Underfill,2
+L00245,Dimensional,1
+L00245,Scale Pit,1
+L00245,Die Wear Mark,1
+L00246,Lap,2
+L00246,Underfill,2
+L00246,Dimensional,1
+L00246,Die Wear Mark,2
+L00247,Lap,2
+L00247,Dimensional,2
+L00247,Scale Pit,2
+L00247,Die Wear Mark,6
+L00248,Underfill,3
+L00248,Dimensional,1
+L00249,Lap,1
+L00250,Scale Pit,1
+L00251,Dimensional,1
+L00252,Lap,1
+L00252,Dimensional,2
+L00252,Die Wear Mark,2
+L00253,Lap,1
+L00253,Crack,1
+L00253,Underfill,2
+L00253,Dimensional,3
+L00253,Scale Pit,1
+L00253,Die Wear Mark,7
+L00254,Underfill,1
+L00254,Dimensional,2
+L00255,Lap,1
+L00255,Underfill,2
+L00255,Dimensional,2
+L00255,Scale Pit,1
+L00255,Die Wear Mark,4
+L00256,Dimensional,2
+L00256,Die Wear Mark,1
+L00257,Dimensional,1
+L00258,Lap,1
+L00258,Crack,1
+L00258,Dimensional,1
+L00258,Die Wear Mark,1
+L00259,Lap,1
+L00259,Crack,1
+L00259,Underfill,1
+L00259,Dimensional,1
+L00260,Scale Pit,1
+L00261,Lap,1
+L00262,Lap,1
+L00262,Underfill,1
+L00262,Dimensional,2
+L00263,Dimensional,2
+L00264,Lap,2
+L00264,Dimensional,3
+L00264,Scale Pit,1
+L00264,Die Wear Mark,5
+L00265,Dimensional,2
+L00265,Die Wear Mark,1
+L00266,Lap,1
+L00266,Crack,1
+L00266,Underfill,1
+L00266,Dimensional,2
+L00266,Die Wear Mark,1
+L00267,Underfill,1
+L00267,Dimensional,4
+L00267,Die Wear Mark,1
+L00268,Lap,3
+L00268,Crack,3
+L00268,Underfill,5
+L00268,Dimensional,6
+L00268,Die Wear Mark,12
+L00269,Lap,3
+L00269,Die Wear Mark,2
+L00270,Underfill,1
+L00270,Dimensional,2
+L00270,Scale Pit,2
+L00270,Die Wear Mark,1
+L00271,Dimensional,1
+L00271,Die Wear Mark,1
+L00273,Lap,1
+L00273,Underfill,1
+L00273,Dimensional,1
+L00274,Lap,1
+L00274,Underfill,1
+L00274,Dimensional,2
+L00274,Die Wear Mark,4
+L00275,Lap,2
+L00275,Crack,1
+L00275,Dimensional,1
+L00275,Scale Pit,2
+L00275,Die Wear Mark,3
+L00276,Lap,2
+L00276,Crack,1
+L00276,Dimensional,2
+L00276,Scale Pit,2
+L00276,Die Wear Mark,2
+L00277,Underfill,1
+L00277,Dimensional,1
+L00277,Die Wear Mark,3
+L00278,Lap,1
+L00278,Crack,1
+L00278,Underfill,1
+L00278,Dimensional,5
+L00278,Die Wear Mark,3
+L00279,Lap,1
+L00279,Crack,1
+L00279,Dimensional,1
+L00280,Dimensional,2
+L00281,Lap,5
+L00281,Underfill,2
+L00281,Dimensional,3
+L00281,Scale Pit,3
+L00281,Die Wear Mark,6
+L00282,Crack,1
+L00282,Underfill,2
+L00282,Dimensional,4
+L00282,Die Wear Mark,6
+L00283,Lap,1
+L00283,Crack,1
+L00283,Underfill,1
+L00283,Dimensional,2
+L00283,Scale Pit,3
+L00283,Die Wear Mark,6
+L00284,Lap,1
+L00284,Dimensional,5
+L00284,Scale Pit,2
+L00284,Die Wear Mark,2
+L00285,Dimensional,1
+L00286,Lap,1
+L00286,Dimensional,1
+L00286,Die Wear Mark,2
+L00287,Lap,2
+L00287,Crack,2
+L00287,Underfill,1
+L00287,Dimensional,1
+L00287,Die Wear Mark,1
+L00289,Lap,3
+L00289,Underfill,1
+L00289,Dimensional,1
+L00289,Scale Pit,1
+L00289,Die Wear Mark,2
+L00290,Lap,1
+L00290,Underfill,1
+L00290,Dimensional,3
+L00290,Scale Pit,1
+L00290,Die Wear Mark,5
+L00291,Underfill,2
+L00292,Underfill,1
+L00292,Dimensional,1
+L00294,Lap,3
+L00294,Crack,1
+L00294,Underfill,4
+L00294,Dimensional,16
+L00294,Scale Pit,4
+L00294,Die Wear Mark,9
+L00295,Lap,1
+L00295,Underfill,1
+L00295,Dimensional,1
+L00295,Scale Pit,1
+L00295,Die Wear Mark,2
+L00296,Lap,1
+L00296,Dimensional,1
+L00296,Scale Pit,2
+L00297,Lap,1
+L00297,Dimensional,3
+L00297,Die Wear Mark,2
+L00298,Lap,2
+L00298,Crack,2
+L00298,Underfill,1
+L00298,Dimensional,3
+L00298,Scale Pit,5
+L00299,Die Wear Mark,1
+L00300,Lap,2
+L00300,Crack,2
+L00300,Underfill,1
+L00300,Dimensional,10
+L00300,Scale Pit,2
+L00300,Die Wear Mark,8
+L00301,Underfill,2
+L00301,Dimensional,2
+L00301,Die Wear Mark,1
+L00302,Dimensional,1
+L00303,Crack,1
+L00303,Die Wear Mark,3
+L00305,Lap,1
+L00305,Crack,1
+L00305,Underfill,2
+L00305,Dimensional,2
+L00305,Scale Pit,3
+L00305,Die Wear Mark,6
+L00306,Lap,1
+L00306,Underfill,1
+L00306,Dimensional,3
+L00306,Scale Pit,1
+L00306,Die Wear Mark,3
+L00307,Underfill,2
+L00307,Dimensional,3
+L00307,Die Wear Mark,1
+L00308,Lap,2
+L00308,Underfill,1
+L00308,Dimensional,1
+L00308,Die Wear Mark,1
+L00309,Lap,2
+L00309,Underfill,2
+L00309,Dimensional,1
+L00309,Scale Pit,1
+L00309,Die Wear Mark,3
+L00310,Lap,1
+L00310,Underfill,1
+L00310,Dimensional,1
+L00310,Scale Pit,1
+L00310,Die Wear Mark,1
+L00311,Dimensional,1
+L00311,Die Wear Mark,2
+L00312,Lap,3
+L00312,Dimensional,1
+L00312,Scale Pit,1
+L00312,Die Wear Mark,2
+L00313,Dimensional,2
+L00313,Die Wear Mark,1
+L00314,Lap,3
+L00314,Dimensional,3
+L00314,Scale Pit,2
+L00314,Die Wear Mark,4
+L00315,Underfill,1
+L00315,Scale Pit,1
+L00315,Die Wear Mark,2
+L00316,Crack,1
+L00316,Dimensional,5
+L00317,Dimensional,5
+L00317,Die Wear Mark,2
+L00318,Dimensional,1
+L00319,Lap,5
+L00319,Underfill,1
+L00319,Dimensional,4
+L00319,Scale Pit,1
+L00319,Die Wear Mark,2
+L00320,Underfill,1
+L00320,Dimensional,3
+L00320,Die Wear Mark,1
+L00321,Crack,1
+L00321,Underfill,2
+L00321,Die Wear Mark,2
+L00322,Lap,1
+L00322,Crack,2
+L00322,Underfill,4
+L00322,Dimensional,4
+L00322,Scale Pit,3
+L00322,Die Wear Mark,3
+L00323,Lap,3
+L00323,Underfill,1
+L00323,Dimensional,3
+L00323,Scale Pit,1
+L00323,Die Wear Mark,1
+L00325,Lap,1
+L00325,Crack,1
+L00325,Dimensional,3
+L00325,Scale Pit,1
+L00325,Die Wear Mark,1
+L00328,Underfill,1
+L00329,Underfill,1
+L00329,Dimensional,1
+L00329,Die Wear Mark,3
+L00330,Lap,1
+L00330,Dimensional,1
+L00331,Lap,1
+L00331,Crack,1
+L00331,Dimensional,4
+L00331,Scale Pit,3
+L00331,Die Wear Mark,1
+L00332,Lap,4
+L00332,Crack,1
+L00332,Underfill,2
+L00332,Dimensional,3
+L00332,Scale Pit,4
+L00333,Dimensional,3
+L00333,Scale Pit,1
+L00333,Die Wear Mark,3
+L00334,Underfill,1
+L00334,Dimensional,1
+L00334,Die Wear Mark,1
+L00336,Lap,3
+L00336,Crack,3
+L00336,Underfill,4
+L00336,Dimensional,6
+L00336,Scale Pit,1
+L00336,Die Wear Mark,5
+L00337,Crack,3
+L00337,Dimensional,2
+L00337,Die Wear Mark,1
+L00338,Underfill,1
+L00338,Dimensional,4
+L00338,Scale Pit,1
+L00338,Die Wear Mark,1
+L00339,Die Wear Mark,1
+L00340,Dimensional,1
+L00340,Scale Pit,1
+L00341,Underfill,1
+L00342,Crack,1
+L00342,Underfill,2
+L00342,Dimensional,2
+L00342,Scale Pit,2
+L00342,Die Wear Mark,2
+L00343,Crack,1
+L00343,Dimensional,6
+L00343,Die Wear Mark,7
+L00344,Lap,1
+L00344,Crack,1
+L00344,Underfill,2
+L00344,Dimensional,3
+L00344,Die Wear Mark,2
+L00345,Dimensional,2
+L00345,Scale Pit,1
+L00345,Die Wear Mark,1
+L00346,Lap,1
+L00346,Dimensional,4
+L00346,Scale Pit,3
+L00346,Die Wear Mark,3
+L00347,Crack,1
+L00347,Underfill,1
+L00347,Die Wear Mark,3
+L00348,Underfill,1
+L00349,Underfill,2
+L00349,Die Wear Mark,4
+L00350,Lap,1
+L00350,Crack,1
+L00350,Die Wear Mark,1
+L00351,Underfill,2
+L00351,Dimensional,1
+L00352,Lap,1
+L00352,Crack,2
+L00352,Underfill,2
+L00352,Dimensional,2
+L00352,Scale Pit,1
+L00352,Die Wear Mark,6
+L00353,Dimensional,1
+L00354,Underfill,1
+L00354,Dimensional,1
+L00354,Die Wear Mark,2
+L00355,Crack,1
+L00355,Dimensional,4
+L00355,Scale Pit,1
+L00355,Die Wear Mark,1
+L00356,Lap,1
+L00356,Underfill,1
+L00356,Dimensional,2
+L00356,Scale Pit,2
+L00357,Lap,1
+L00357,Underfill,1
+L00357,Scale Pit,1
+L00358,Underfill,2
+L00358,Dimensional,4
+L00359,Crack,2
+L00359,Underfill,1
+L00359,Dimensional,4
+L00359,Die Wear Mark,2
+L00360,Crack,1
+L00362,Lap,1
+L00362,Dimensional,1
+L00362,Scale Pit,1
+L00363,Lap,1
+L00363,Crack,1
+L00363,Scale Pit,2
+L00364,Lap,2
+L00364,Crack,1
+L00364,Dimensional,5
+L00364,Scale Pit,1
+L00364,Die Wear Mark,2
+L00365,Dimensional,5
+L00365,Die Wear Mark,4
+L00366,Lap,1
+L00366,Underfill,1
+L00366,Dimensional,2
+L00366,Scale Pit,3
+L00366,Die Wear Mark,4
+L00367,Scale Pit,1
+L00367,Die Wear Mark,1
+L00368,Dimensional,1
+L00368,Die Wear Mark,1
+L00369,Crack,1
+L00369,Scale Pit,1
+L00370,Lap,1
+L00370,Die Wear Mark,2
+L00372,Lap,1
+L00372,Underfill,1
+L00372,Dimensional,3
+L00372,Scale Pit,3
+L00372,Die Wear Mark,4
+L00373,Underfill,1
+L00373,Scale Pit,1
+L00373,Die Wear Mark,4
+L00374,Dimensional,1
+L00375,Lap,1
+L00375,Underfill,1
+L00375,Die Wear Mark,1
+L00376,Lap,2
+L00376,Crack,1
+L00376,Scale Pit,1
+L00376,Die Wear Mark,2
+L00377,Underfill,1
+L00377,Dimensional,1
+L00378,Scale Pit,1
+L00379,Underfill,1
+L00379,Dimensional,1
+L00379,Die Wear Mark,1
+L00380,Lap,1
+L00380,Underfill,2
+L00380,Dimensional,3
+L00380,Die Wear Mark,4
+L00381,Underfill,1
+L00381,Die Wear Mark,4
+L00382,Scale Pit,1
+L00383,Lap,1
+L00383,Die Wear Mark,1
+L00384,Dimensional,1
+L00385,Lap,1
+L00385,Crack,1
+L00385,Dimensional,2
+L00386,Lap,1
+L00386,Dimensional,1
+L00386,Scale Pit,1
+L00387,Dimensional,2
+L00387,Scale Pit,2
+L00388,Underfill,2
+L00388,Dimensional,1
+L00388,Scale Pit,1
+L00388,Die Wear Mark,2
+L00389,Dimensional,1
+L00389,Scale Pit,1
+L00390,Lap,1
+L00390,Crack,1
+L00390,Underfill,1
+L00390,Dimensional,3
+L00390,Scale Pit,1
+L00390,Die Wear Mark,2
+L00391,Lap,2
+L00391,Crack,1
+L00391,Dimensional,1
+L00391,Scale Pit,1
+L00391,Die Wear Mark,1
+L00392,Dimensional,1
+L00393,Lap,1
+L00393,Scale Pit,1
+L00394,Lap,1
+L00394,Crack,2
+L00394,Underfill,4
+L00394,Dimensional,6
+L00394,Scale Pit,1
+L00394,Die Wear Mark,5
+L00395,Crack,1
+L00395,Underfill,1
+L00395,Dimensional,2
+L00395,Scale Pit,1
+L00395,Die Wear Mark,2
+L00396,Underfill,2
+L00396,Dimensional,1
+L00396,Scale Pit,1
+L00397,Lap,1
+L00397,Dimensional,1
+L00398,Crack,1
+L00398,Underfill,1
+L00398,Dimensional,3
+L00398,Die Wear Mark,4
+L00399,Lap,2
+L00399,Crack,1
+L00399,Dimensional,5
+L00399,Die Wear Mark,3
+L00400,Die Wear Mark,1
+L00401,Dimensional,4
+L00401,Die Wear Mark,1
+L00402,Underfill,1
+L00403,Underfill,1
+L00403,Dimensional,1
+L00404,Lap,2
+L00404,Crack,1
+L00404,Dimensional,3
+L00404,Scale Pit,3
+L00404,Die Wear Mark,2
+L00405,Lap,1
+L00405,Underfill,1
+L00406,Lap,1
+L00406,Dimensional,1
+L00406,Die Wear Mark,1
+L00407,Underfill,1
+L00407,Scale Pit,1
+L00407,Die Wear Mark,2
+L00408,Scale Pit,2
+L00409,Crack,1
+L00409,Dimensional,2
+L00409,Scale Pit,1
+L00409,Die Wear Mark,1
+L00410,Lap,1
+L00410,Dimensional,5
+L00410,Die Wear Mark,2
+L00411,Lap,1
+L00411,Crack,1
+L00411,Underfill,2
+L00411,Dimensional,1
+L00412,Lap,1
+L00412,Crack,1
+L00412,Underfill,3
+L00413,Dimensional,6
+L00413,Die Wear Mark,5
+L00415,Lap,2
+L00415,Underfill,3
+L00415,Dimensional,6
+L00415,Scale Pit,2
+L00415,Die Wear Mark,5
+L00416,Lap,2
+L00416,Dimensional,1
+L00416,Die Wear Mark,1
+L00417,Crack,1
+L00417,Underfill,1
+L00417,Dimensional,1
+L00417,Scale Pit,1
+L00417,Die Wear Mark,2
+L00418,Underfill,3
+L00418,Dimensional,2
+L00419,Crack,1
+L00419,Underfill,3
+L00419,Dimensional,1
+L00419,Scale Pit,1
+L00419,Die Wear Mark,3
+L00420,Lap,5
+L00420,Crack,2
+L00420,Underfill,2
+L00420,Dimensional,5
+L00420,Scale Pit,3
+L00420,Die Wear Mark,5
+L00421,Lap,1
+L00421,Underfill,2
+L00421,Die Wear Mark,1
+L00422,Dimensional,1
+L00423,Lap,1
+L00423,Crack,1
+L00423,Underfill,1
+L00423,Dimensional,4
+L00423,Die Wear Mark,3
+L00424,Dimensional,1
+L00424,Die Wear Mark,1
+L00425,Dimensional,1
+L00425,Scale Pit,1
+L00426,Scale Pit,1
+L00427,Crack,2
+L00427,Dimensional,1
+L00427,Die Wear Mark,2
+L00428,Crack,1
+L00429,Underfill,1
+L00429,Dimensional,1
+L00429,Scale Pit,1
+L00429,Die Wear Mark,1
+L00430,Dimensional,1
+L00431,Underfill,1
+L00432,Lap,3
+L00432,Underfill,1
+L00432,Dimensional,1
+L00433,Crack,1
+L00433,Dimensional,1
+L00434,Lap,1
+L00434,Underfill,1
+L00434,Dimensional,3
+L00434,Scale Pit,1
+L00434,Die Wear Mark,3
+L00435,Crack,2
+L00435,Dimensional,2
+L00435,Scale Pit,1
+L00435,Die Wear Mark,3
+L00436,Crack,1
+L00436,Dimensional,3
+L00436,Scale Pit,1
+L00436,Die Wear Mark,1
+L00438,Lap,1
+L00438,Crack,2
+L00438,Underfill,1
+L00438,Dimensional,5
+L00438,Die Wear Mark,3
+L00439,Lap,2
+L00440,Dimensional,3
+L00440,Scale Pit,2
+L00440,Die Wear Mark,1
+L00441,Dimensional,1
+L00441,Scale Pit,2
+L00441,Die Wear Mark,1
+L00442,Crack,1
+L00442,Underfill,1
+L00442,Dimensional,1
+L00442,Die Wear Mark,2
+L00443,Lap,1
+L00443,Die Wear Mark,2
+L00444,Dimensional,2
+L00444,Die Wear Mark,5
+L00445,Lap,1
+L00445,Crack,1
+L00445,Underfill,1
+L00445,Scale Pit,1
+L00445,Die Wear Mark,4
+L00446,Scale Pit,1
+L00446,Die Wear Mark,1
+L00447,Lap,1
+L00447,Crack,2
+L00447,Dimensional,1
+L00448,Lap,1
+L00448,Scale Pit,1
+L00448,Die Wear Mark,2
+L00449,Lap,1
+L00449,Underfill,1
+L00449,Dimensional,4
+L00449,Scale Pit,1
+L00449,Die Wear Mark,7
+L00450,Lap,1
+L00450,Scale Pit,4
+L00451,Lap,1
+L00451,Dimensional,1
+L00451,Scale Pit,2
+L00451,Die Wear Mark,1
+L00452,Dimensional,1
+L00452,Die Wear Mark,1
+L00453,Lap,1
+L00453,Underfill,1
+L00453,Dimensional,3
+L00453,Die Wear Mark,1
+L00454,Underfill,1
+L00455,Lap,2
+L00455,Dimensional,2
+L00455,Scale Pit,4
+L00455,Die Wear Mark,3
+L00456,Crack,2
+L00456,Underfill,1
+L00456,Dimensional,2
+L00456,Scale Pit,1
+L00456,Die Wear Mark,2
+L00457,Dimensional,2
+L00457,Scale Pit,1
+L00458,Crack,1
+L00458,Dimensional,1
+L00459,Scale Pit,1
+L00460,Lap,2
+L00460,Scale Pit,2
+L00461,Underfill,1
+L00461,Dimensional,1
+L00461,Scale Pit,2
+L00461,Die Wear Mark,1
+L00462,Lap,2
+L00462,Dimensional,7
+L00463,Lap,1
+L00463,Dimensional,1
+L00463,Die Wear Mark,1
+L00464,Crack,1
+L00464,Underfill,3
+L00464,Dimensional,3
+L00464,Scale Pit,1
+L00464,Die Wear Mark,1
+L00465,Lap,1
+L00465,Underfill,2
+L00465,Dimensional,7
+L00465,Scale Pit,1
+L00465,Die Wear Mark,6
+L00466,Dimensional,3
+L00466,Scale Pit,1
+L00467,Lap,1
+L00467,Dimensional,3
+L00467,Die Wear Mark,1
+L00468,Lap,2
+L00468,Crack,1
+L00468,Dimensional,2
+L00468,Scale Pit,1
+L00468,Die Wear Mark,2
+L00469,Lap,2
+L00469,Dimensional,2
+L00469,Scale Pit,1
+L00469,Die Wear Mark,1
+L00470,Lap,1
+L00470,Dimensional,1
+L00470,Die Wear Mark,3
+L00471,Lap,2
+L00471,Die Wear Mark,1
+L00472,Lap,3
+L00472,Dimensional,1
+L00472,Scale Pit,1
+L00472,Die Wear Mark,1
+L00473,Lap,2
+L00473,Dimensional,2
+L00473,Die Wear Mark,3
+L00474,Lap,1
+L00474,Underfill,2
+L00474,Dimensional,1
+L00474,Scale Pit,1
+L00475,Lap,3
+L00475,Crack,1
+L00475,Underfill,2
+L00475,Dimensional,5
+L00475,Scale Pit,1
+L00475,Die Wear Mark,4
+L00477,Lap,2
+L00477,Scale Pit,2
+L00477,Die Wear Mark,1
+L00479,Crack,1
+L00479,Dimensional,2
+L00479,Die Wear Mark,1
+L00480,Lap,1
+L00480,Crack,1
+L00480,Dimensional,3
+L00480,Die Wear Mark,1
+L00482,Lap,2
+L00482,Dimensional,1
+L00482,Die Wear Mark,3
+L00483,Dimensional,3
+L00483,Die Wear Mark,2
+L00484,Lap,2
+L00484,Underfill,1
+L00484,Dimensional,2
+L00484,Die Wear Mark,2
+L00485,Crack,1
+L00485,Dimensional,1
+L00485,Scale Pit,1
+L00485,Die Wear Mark,1
+L00486,Lap,1
+L00486,Underfill,1
+L00486,Dimensional,1
+L00487,Underfill,1
+L00487,Dimensional,1
+L00487,Die Wear Mark,1
+L00488,Underfill,2
+L00488,Dimensional,5
+L00488,Scale Pit,1
+L00488,Die Wear Mark,3
+L00489,Lap,1
+L00489,Crack,1
+L00489,Dimensional,5
+L00489,Scale Pit,1
+L00489,Die Wear Mark,3
+L00490,Scale Pit,1
+L00490,Die Wear Mark,1
+L00491,Lap,1
+L00491,Die Wear Mark,2
+L00492,Lap,1
+L00492,Crack,1
+L00492,Underfill,1
+L00493,Lap,2
+L00493,Dimensional,2
+L00493,Scale Pit,1
+L00493,Die Wear Mark,2
+L00494,Lap,1
+L00494,Underfill,3
+L00494,Die Wear Mark,2
+L00495,Lap,1
+L00495,Dimensional,1
+L00495,Die Wear Mark,1
+L00496,Crack,1
+L00496,Underfill,1
+L00496,Dimensional,2
+L00496,Die Wear Mark,2
+L00497,Underfill,3
+L00497,Dimensional,1
+L00497,Die Wear Mark,3
+L00499,Lap,1
+L00499,Crack,2
+L00499,Underfill,3
+L00499,Dimensional,3
+L00499,Scale Pit,3
+L00499,Die Wear Mark,1
+L00500,Underfill,2
+L00500,Dimensional,1
+L00500,Die Wear Mark,1
+L00501,Lap,1
+L00501,Underfill,1
+L00501,Dimensional,6
+L00501,Die Wear Mark,2
+L00503,Lap,5
+L00503,Crack,1
+L00503,Underfill,2
+L00503,Dimensional,4
+L00503,Scale Pit,2
+L00503,Die Wear Mark,3
+L00504,Lap,1
+L00504,Crack,1
+L00504,Scale Pit,1
+L00505,Lap,1
+L00505,Crack,1
+L00505,Dimensional,6
+L00505,Die Wear Mark,6
+L00506,Underfill,1
+L00506,Dimensional,5
+L00506,Die Wear Mark,3
+L00507,Lap,1
+L00507,Underfill,2
+L00507,Dimensional,1
+L00508,Lap,1
+L00508,Underfill,1
+L00508,Dimensional,2
+L00510,Lap,4
+L00510,Crack,1
+L00510,Dimensional,1
+L00510,Scale Pit,1
+L00510,Die Wear Mark,2
+L00511,Lap,3
+L00511,Crack,1
+L00511,Dimensional,8
+L00511,Scale Pit,3
+L00511,Die Wear Mark,3
+L00512,Crack,1
+L00512,Dimensional,2
+L00513,Dimensional,1
+L00514,Crack,1
+L00514,Dimensional,2
+L00515,Lap,2
+L00515,Underfill,1
+L00515,Dimensional,2
+L00515,Die Wear Mark,4
+L00517,Lap,4
+L00517,Underfill,2
+L00517,Dimensional,3
+L00517,Scale Pit,1
+L00517,Die Wear Mark,4
+L00518,Lap,1
+L00518,Dimensional,2
+L00518,Scale Pit,1
+L00518,Die Wear Mark,5
+L00519,Dimensional,2
+L00519,Die Wear Mark,1
+L00520,Lap,1
+L00520,Scale Pit,1
+L00520,Die Wear Mark,2
+L00521,Underfill,1
+L00521,Die Wear Mark,2
+L00523,Lap,1
+L00523,Underfill,1
+L00523,Dimensional,6
+L00523,Die Wear Mark,2
+L00524,Underfill,1
+L00524,Dimensional,2
+L00524,Die Wear Mark,2
+L00525,Dimensional,1
+L00526,Lap,1
+L00526,Underfill,1
+L00526,Dimensional,1
+L00526,Die Wear Mark,2
+L00527,Crack,3
+L00527,Underfill,1
+L00527,Die Wear Mark,8
+L00528,Crack,1
+L00528,Dimensional,1
+L00528,Scale Pit,1
+L00528,Die Wear Mark,1
+L00529,Lap,2
+L00529,Crack,1
+L00529,Underfill,1
+L00529,Dimensional,3
+L00529,Scale Pit,1
+L00529,Die Wear Mark,2
+L00530,Scale Pit,1
+L00530,Die Wear Mark,1
+L00531,Lap,2
+L00531,Underfill,3
+L00531,Dimensional,4
+L00531,Die Wear Mark,7
+L00532,Underfill,2
+L00532,Dimensional,1
+L00532,Die Wear Mark,1
+L00533,Lap,2
+L00533,Underfill,1
+L00533,Dimensional,1
+L00533,Scale Pit,1
+L00533,Die Wear Mark,5
+L00534,Underfill,2
+L00534,Dimensional,3
+L00534,Scale Pit,1
+L00534,Die Wear Mark,3
+L00535,Crack,1
+L00535,Dimensional,3
+L00535,Scale Pit,1
+L00535,Die Wear Mark,3
+L00536,Dimensional,3
+L00536,Die Wear Mark,3
+L00537,Dimensional,1
+L00537,Die Wear Mark,1
+L00538,Underfill,1
+L00538,Die Wear Mark,3
+L00539,Lap,2
+L00539,Underfill,1
+L00539,Die Wear Mark,1
+L00540,Dimensional,2
+L00540,Die Wear Mark,2
+L00541,Underfill,2
+L00541,Dimensional,1
+L00542,Dimensional,1
+L00543,Lap,1
+L00543,Dimensional,5
+L00543,Scale Pit,1
+L00543,Die Wear Mark,3
+L00544,Dimensional,1
+L00544,Die Wear Mark,1
+L00545,Lap,3
+L00545,Crack,2
+L00545,Underfill,4
+L00545,Dimensional,3
+L00545,Scale Pit,1
+L00545,Die Wear Mark,4
+L00546,Crack,1
+L00546,Dimensional,3
+L00546,Scale Pit,1
+L00546,Die Wear Mark,2
+L00548,Lap,2
+L00548,Underfill,1
+L00548,Dimensional,10
+L00548,Scale Pit,2
+L00548,Die Wear Mark,3
+L00549,Lap,1
+L00549,Crack,1
+L00549,Underfill,2
+L00549,Dimensional,3
+L00549,Scale Pit,2
+L00549,Die Wear Mark,4
+L00550,Dimensional,3
+L00550,Die Wear Mark,2
+L00551,Lap,2
+L00551,Crack,1
+L00551,Dimensional,1
+L00551,Scale Pit,1
+L00551,Die Wear Mark,1
+L00552,Lap,1
+L00552,Underfill,1
+L00552,Dimensional,2
+L00552,Scale Pit,2
+L00553,Lap,1
+L00553,Underfill,2
+L00553,Dimensional,6
+L00553,Scale Pit,2
+L00553,Die Wear Mark,8
+L00554,Dimensional,1
+L00554,Scale Pit,1
+L00555,Dimensional,1
+L00556,Underfill,1
+L00556,Dimensional,2
+L00556,Die Wear Mark,1
+L00557,Underfill,1
+L00557,Dimensional,1
+L00558,Underfill,3
+L00558,Dimensional,3
+L00558,Scale Pit,2
+L00559,Underfill,1
+L00559,Dimensional,2
+L00559,Scale Pit,2
+L00559,Die Wear Mark,1
+L00560,Dimensional,5
+L00560,Die Wear Mark,2
+L00561,Lap,2
+L00561,Crack,2
+L00561,Underfill,2
+L00561,Dimensional,7
+L00561,Scale Pit,1
+L00561,Die Wear Mark,6
+L00562,Lap,4
+L00562,Crack,1
+L00562,Underfill,2
+L00562,Dimensional,1
+L00562,Scale Pit,1
+L00562,Die Wear Mark,3
+L00563,Lap,3
+L00563,Crack,1
+L00563,Underfill,1
+L00563,Dimensional,5
+L00563,Scale Pit,2
+L00563,Die Wear Mark,3
+L00564,Lap,2
+L00564,Underfill,1
+L00564,Dimensional,1
+L00564,Die Wear Mark,2
+L00565,Lap,2
+L00566,Lap,3
+L00566,Crack,2
+L00566,Underfill,1
+L00566,Dimensional,4
+L00566,Die Wear Mark,2
+L00567,Lap,1
+L00567,Dimensional,3
+L00567,Scale Pit,1
+L00567,Die Wear Mark,4
+L00568,Underfill,1
+L00568,Dimensional,3
+L00568,Scale Pit,1
+L00568,Die Wear Mark,3
+L00569,Lap,4
+L00569,Dimensional,1
+L00569,Scale Pit,1
+L00569,Die Wear Mark,1
+L00570,Lap,1
+L00570,Crack,2
+L00570,Underfill,2
+L00570,Dimensional,7
+L00570,Die Wear Mark,8
+L00571,Lap,4
+L00571,Underfill,3
+L00571,Dimensional,4
+L00571,Scale Pit,3
+L00571,Die Wear Mark,6
+L00572,Crack,1
+L00572,Scale Pit,1
+L00573,Crack,1
+L00573,Scale Pit,1
+L00574,Die Wear Mark,1
+L00575,Lap,2
+L00575,Die Wear Mark,2
+L00576,Lap,1
+L00576,Crack,1
+L00576,Scale Pit,2
+L00576,Die Wear Mark,2
+L00577,Underfill,1
+L00577,Dimensional,3
+L00577,Die Wear Mark,4
+L00578,Lap,3
+L00578,Underfill,1
+L00578,Dimensional,2
+L00578,Die Wear Mark,1
+L00579,Lap,3
+L00579,Dimensional,4
+L00579,Scale Pit,2
+L00580,Scale Pit,1
+L00580,Die Wear Mark,2
+L00581,Die Wear Mark,1
+L00582,Lap,1
+L00582,Dimensional,1
+L00582,Scale Pit,1
+L00584,Lap,1
+L00584,Underfill,2
+L00584,Dimensional,1
+L00585,Lap,3
+L00585,Crack,3
+L00585,Dimensional,8
+L00585,Scale Pit,4
+L00585,Die Wear Mark,4
+L00586,Lap,2
+L00586,Crack,1
+L00586,Scale Pit,2
+L00586,Die Wear Mark,3
+L00587,Lap,1
+L00587,Underfill,2
+L00587,Dimensional,2
+L00587,Die Wear Mark,1
+L00588,Lap,4
+L00588,Dimensional,4
+L00588,Die Wear Mark,4
+L00589,Lap,1
+L00589,Underfill,2
+L00589,Dimensional,3
+L00589,Die Wear Mark,3
+L00590,Lap,1
+L00591,Lap,2
+L00591,Dimensional,2
+L00591,Die Wear Mark,1
+L00592,Lap,1
+L00592,Crack,5
+L00592,Underfill,2
+L00592,Dimensional,5
+L00592,Die Wear Mark,4
+L00593,Crack,2
+L00593,Dimensional,2
+L00593,Die Wear Mark,1
+L00594,Crack,1
+L00594,Underfill,1
+L00594,Scale Pit,1
+L00595,Lap,1
+L00595,Underfill,2
+L00595,Dimensional,1
+L00595,Scale Pit,1
+L00596,Lap,1
+L00596,Dimensional,3
+L00596,Die Wear Mark,1
+L00597,Dimensional,1
+L00597,Scale Pit,1
+L00597,Die Wear Mark,1
+L00598,Lap,1
+L00598,Dimensional,4
+L00598,Scale Pit,1
+L00598,Die Wear Mark,1
+L00599,Underfill,1
+L00599,Dimensional,1
+L00600,Lap,1
+L00600,Dimensional,1
+L00600,Scale Pit,3
+L00601,Lap,2
+L00601,Underfill,1
+L00601,Dimensional,3
+L00602,Dimensional,1
+L00602,Scale Pit,1
+L00602,Die Wear Mark,1
+L00603,Lap,1
+L00603,Crack,1
+L00603,Underfill,1
+L00604,Dimensional,2
+L00605,Die Wear Mark,1
+L00606,Lap,2
+L00606,Crack,2
+L00606,Underfill,3
+L00606,Dimensional,1
+L00606,Scale Pit,3
+L00606,Die Wear Mark,9
+L00607,Crack,1
+L00608,Lap,1
+L00608,Underfill,1
+L00608,Dimensional,2
+L00608,Scale Pit,1
+L00608,Die Wear Mark,1
+L00609,Underfill,2
+L00609,Scale Pit,1
+L00609,Die Wear Mark,1
+L00610,Lap,1
+L00610,Dimensional,3
+L00610,Scale Pit,1
+L00610,Die Wear Mark,1
+L00611,Scale Pit,1
+L00611,Die Wear Mark,1
+L00612,Underfill,1
+L00612,Dimensional,1
+L00612,Die Wear Mark,2
+L00613,Lap,1
+L00613,Underfill,4
+L00613,Dimensional,5
+L00613,Scale Pit,1
+L00613,Die Wear Mark,6
+L00614,Lap,1
+L00614,Dimensional,2
+L00614,Scale Pit,1
+L00615,Lap,1
+L00615,Scale Pit,1
+L00615,Die Wear Mark,1
+L00616,Dimensional,2
+L00617,Lap,1
+L00617,Underfill,2
+L00617,Dimensional,2
+L00617,Scale Pit,1
+L00617,Die Wear Mark,2
+L00618,Lap,2
+L00618,Underfill,1
+L00618,Scale Pit,1
+L00619,Crack,1
+L00620,Crack,1
+L00620,Underfill,1
+L00620,Dimensional,4
+L00620,Die Wear Mark,2
+L00621,Lap,2
+L00621,Underfill,1
+L00621,Scale Pit,3
+L00621,Die Wear Mark,1
+L00622,Underfill,1
+L00623,Lap,2
+L00623,Crack,1
+L00623,Underfill,1
+L00624,Die Wear Mark,1
+L00625,Dimensional,1
+L00626,Lap,1
+L00626,Crack,1
+L00626,Dimensional,4
+L00627,Crack,2
+L00627,Underfill,1
+L00627,Die Wear Mark,4
+L00628,Crack,1
+L00628,Underfill,5
+L00628,Dimensional,6
+L00628,Scale Pit,4
+L00628,Die Wear Mark,5
+L00629,Lap,1
+L00629,Dimensional,5
+L00629,Die Wear Mark,1
+L00630,Crack,2
+L00630,Dimensional,2
+L00630,Scale Pit,3
+L00630,Die Wear Mark,2
+L00631,Lap,2
+L00631,Dimensional,3
+L00631,Die Wear Mark,1
+L00633,Scale Pit,1
+L00634,Scale Pit,1
+L00635,Dimensional,2
+L00635,Die Wear Mark,1
+L00636,Lap,2
+L00636,Dimensional,1
+L00636,Die Wear Mark,1
+L00637,Underfill,1
+L00637,Scale Pit,1
+L00637,Die Wear Mark,5
+L00638,Lap,1
+L00638,Underfill,1
+L00638,Dimensional,1
+L00639,Dimensional,1
+L00639,Scale Pit,1
+L00639,Die Wear Mark,1
+L00640,Lap,1
+L00640,Crack,3
+L00640,Underfill,2
+L00640,Dimensional,6
+L00640,Scale Pit,3
+L00640,Die Wear Mark,5
+L00641,Lap,1
+L00641,Scale Pit,2
+L00641,Die Wear Mark,1
+L00642,Lap,1
+L00642,Underfill,1
+L00642,Dimensional,3
+L00642,Scale Pit,1
+L00642,Die Wear Mark,1
+L00643,Underfill,1
+L00643,Die Wear Mark,2
+L00644,Lap,1
+L00644,Crack,1
+L00644,Underfill,1
+L00644,Dimensional,1
+L00644,Scale Pit,1
+L00644,Die Wear Mark,9
+L00645,Lap,2
+L00645,Crack,1
+L00645,Underfill,4
+L00645,Dimensional,1
+L00645,Scale Pit,3
+L00645,Die Wear Mark,3
+L00646,Lap,1
+L00646,Underfill,1
+L00646,Dimensional,2
+L00646,Die Wear Mark,1
+L00648,Dimensional,1
+L00649,Lap,2
+L00649,Crack,1
+L00649,Dimensional,1
+L00649,Scale Pit,1
+L00649,Die Wear Mark,1
+L00650,Underfill,1
+L00650,Die Wear Mark,2
+L00651,Crack,2
+L00651,Dimensional,1
+L00653,Lap,2
+L00653,Underfill,2
+L00653,Dimensional,4
+L00653,Scale Pit,3
+L00653,Die Wear Mark,5
+L00654,Lap,1
+L00654,Underfill,3
+L00654,Dimensional,6
+L00654,Die Wear Mark,1
+L00655,Lap,4
+L00655,Crack,2
+L00655,Underfill,1
+L00655,Dimensional,6
+L00655,Scale Pit,2
+L00655,Die Wear Mark,4
+L00656,Lap,2
+L00656,Crack,1
+L00656,Dimensional,3
+L00656,Scale Pit,4
+L00656,Die Wear Mark,2
+L00657,Lap,5
+L00657,Underfill,3
+L00657,Dimensional,10
+L00657,Scale Pit,2
+L00657,Die Wear Mark,10
+L00658,Lap,1
+L00658,Underfill,1
+L00658,Dimensional,2
+L00658,Die Wear Mark,1
+L00659,Underfill,1
+L00659,Dimensional,1
+L00659,Scale Pit,1
+L00659,Die Wear Mark,1
+L00660,Lap,2
+L00660,Dimensional,1
+L00660,Scale Pit,3
+L00660,Die Wear Mark,2
+L00661,Crack,1
+L00661,Dimensional,1
+L00661,Scale Pit,1
+L00661,Die Wear Mark,1
+L00662,Lap,1
+L00662,Crack,2
+L00662,Dimensional,6
+L00662,Scale Pit,1
+L00662,Die Wear Mark,5
+L00663,Lap,2
+L00663,Crack,1
+L00663,Dimensional,3
+L00663,Scale Pit,3
+L00663,Die Wear Mark,2
+L00664,Lap,2
+L00664,Underfill,1
+L00664,Dimensional,5
+L00664,Die Wear Mark,3
+L00665,Crack,1
+L00665,Die Wear Mark,1
+L00666,Lap,1
+L00666,Dimensional,1
+L00666,Scale Pit,1
+L00667,Lap,1
+L00667,Dimensional,1
+L00668,Lap,2
+L00668,Crack,1
+L00668,Underfill,1
+L00668,Dimensional,2
+L00668,Scale Pit,1
+L00668,Die Wear Mark,2
+L00669,Lap,2
+L00669,Crack,1
+L00669,Underfill,2
+L00669,Dimensional,4
+L00669,Scale Pit,1
+L00669,Die Wear Mark,1
+L00670,Crack,1
+L00670,Underfill,1
+L00670,Dimensional,1
+L00670,Scale Pit,1
+L00670,Die Wear Mark,1
+L00671,Lap,2
+L00671,Underfill,1
+L00671,Die Wear Mark,2
+L00672,Lap,1
+L00672,Underfill,1
+L00672,Dimensional,1
+L00672,Die Wear Mark,2
+L00673,Crack,1
+L00673,Dimensional,3
+L00673,Scale Pit,4
+L00673,Die Wear Mark,2
+L00674,Lap,1
+L00674,Dimensional,2
+L00674,Scale Pit,1
+L00675,Lap,1
+L00675,Crack,1
+L00675,Dimensional,2
+L00675,Scale Pit,2
+L00675,Die Wear Mark,2
+L00676,Lap,2
+L00676,Underfill,2
+L00676,Dimensional,3
+L00676,Scale Pit,1
+L00676,Die Wear Mark,3
+L00677,Scale Pit,2
+L00678,Lap,2
+L00678,Underfill,2
+L00678,Dimensional,2
+L00678,Scale Pit,2
+L00679,Lap,1
+L00679,Crack,1
+L00679,Dimensional,1
+L00679,Scale Pit,1
+L00679,Die Wear Mark,3
+L00680,Lap,2
+L00680,Crack,1
+L00680,Underfill,2
+L00680,Dimensional,3
+L00680,Die Wear Mark,1
+L00681,Lap,1
+L00681,Underfill,3
+L00681,Dimensional,4
+L00681,Scale Pit,1
+L00681,Die Wear Mark,3
+L00682,Lap,2
+L00682,Dimensional,2
+L00682,Die Wear Mark,3
+L00683,Underfill,1
+L00683,Dimensional,2
+L00684,Die Wear Mark,2
+L00685,Lap,1
+L00685,Underfill,1
+L00685,Dimensional,1
+L00685,Scale Pit,1
+L00686,Crack,2
+L00686,Dimensional,1
+L00686,Die Wear Mark,1
+L00687,Lap,1
+L00687,Underfill,3
+L00687,Dimensional,1
+L00688,Lap,2
+L00688,Crack,1
+L00688,Dimensional,1
+L00688,Die Wear Mark,2
+L00689,Dimensional,1
+L00689,Scale Pit,2
+L00690,Crack,1
+L00690,Underfill,1
+L00690,Dimensional,2
+L00690,Die Wear Mark,1
+L00691,Lap,2
+L00691,Underfill,1
+L00691,Scale Pit,1
+L00691,Die Wear Mark,2
+L00692,Dimensional,1
+L00692,Die Wear Mark,1
+L00693,Scale Pit,1
+L00694,Die Wear Mark,1
+L00695,Underfill,1
+L00696,Lap,1
+L00696,Underfill,1
+L00696,Dimensional,4
+L00696,Scale Pit,1
+L00696,Die Wear Mark,2
+L00698,Dimensional,1
+L00698,Scale Pit,1
+L00699,Dimensional,1
+L00699,Die Wear Mark,2
+L00700,Lap,2
+L00700,Crack,2
+L00700,Underfill,3
+L00700,Dimensional,3
+L00700,Scale Pit,3
+L00700,Die Wear Mark,5
+L00701,Scale Pit,1
+L00702,Underfill,1
+L00702,Die Wear Mark,1
+L00703,Lap,4
+L00703,Dimensional,2
+L00703,Scale Pit,2
+L00704,Lap,3
+L00704,Crack,1
+L00704,Underfill,1
+L00704,Dimensional,2
+L00704,Scale Pit,2
+L00704,Die Wear Mark,2
+L00705,Dimensional,2
+L00705,Die Wear Mark,1
+L00706,Dimensional,1
+L00706,Scale Pit,1
+L00706,Die Wear Mark,1
+L00708,Lap,1
+L00708,Crack,1
+L00708,Dimensional,3
+L00708,Die Wear Mark,1
+L00709,Dimensional,1
+L00709,Die Wear Mark,1
+L00710,Lap,1
+L00710,Underfill,3
+L00710,Dimensional,1
+L00710,Die Wear Mark,1
+L00711,Lap,1
+L00711,Die Wear Mark,1
+L00712,Underfill,1
+L00712,Dimensional,3
+L00712,Scale Pit,1
+L00712,Die Wear Mark,1
+L00713,Crack,1
+L00713,Underfill,1
+L00713,Dimensional,2
+L00713,Scale Pit,1
+L00714,Lap,1
+L00714,Scale Pit,1
+L00715,Lap,2
+L00715,Underfill,3
+L00715,Dimensional,4
+L00715,Scale Pit,2
+L00715,Die Wear Mark,6
+L00716,Lap,1
+L00717,Crack,1
+L00718,Crack,1
+L00718,Underfill,1
+L00718,Scale Pit,1
+L00718,Die Wear Mark,3
+L00719,Underfill,2
+L00719,Dimensional,1
+L00719,Scale Pit,1
+L00719,Die Wear Mark,1
+L00720,Lap,2
+L00720,Dimensional,2
+L00721,Lap,3
+L00721,Crack,1
+L00721,Scale Pit,2
+L00722,Dimensional,1
+L00723,Dimensional,1
+L00723,Die Wear Mark,3
+L00724,Underfill,1
+L00724,Dimensional,2
+L00724,Die Wear Mark,1
+L00725,Lap,1
+L00725,Crack,1
+L00726,Lap,1
+L00726,Underfill,1
+L00726,Dimensional,2
+L00726,Scale Pit,1
+L00726,Die Wear Mark,3
+L00727,Lap,1
+L00727,Crack,1
+L00727,Underfill,1
+L00727,Dimensional,2
+L00727,Die Wear Mark,2
+L00728,Lap,2
+L00728,Crack,1
+L00728,Dimensional,1
+L00728,Scale Pit,1
+L00728,Die Wear Mark,2
+L00729,Lap,1
+L00729,Underfill,1
+L00729,Scale Pit,1
+L00729,Die Wear Mark,1
+L00730,Underfill,1
+L00731,Lap,1
+L00731,Underfill,1
+L00732,Underfill,1
+L00732,Dimensional,3
+L00732,Scale Pit,1
+L00732,Die Wear Mark,1
+L00734,Scale Pit,2
+L00735,Lap,1
+L00735,Crack,1
+L00735,Dimensional,5
+L00735,Scale Pit,1
+L00735,Die Wear Mark,3
+L00736,Lap,1
+L00736,Underfill,2
+L00736,Dimensional,2
+L00737,Lap,1
+L00737,Crack,1
+L00737,Dimensional,2
+L00737,Die Wear Mark,3
+L00738,Lap,4
+L00738,Crack,1
+L00738,Underfill,1
+L00738,Dimensional,2
+L00738,Scale Pit,1
+L00738,Die Wear Mark,3
+L00739,Dimensional,2
+L00740,Underfill,1
+L00740,Die Wear Mark,1
+L00741,Crack,1
+L00741,Underfill,3
+L00741,Dimensional,1
+L00741,Scale Pit,1
+L00741,Die Wear Mark,7
+L00742,Lap,1
+L00742,Underfill,1
+L00742,Dimensional,3
+L00742,Scale Pit,1
+L00743,Lap,1
+L00743,Crack,1
+L00743,Underfill,2
+L00743,Dimensional,7
+L00743,Scale Pit,2
+L00743,Die Wear Mark,5
+L00744,Lap,1
+L00744,Dimensional,2
+L00744,Die Wear Mark,4
+L00745,Crack,2
+L00745,Underfill,1
+L00745,Dimensional,6
+L00745,Die Wear Mark,7
+L00746,Lap,1
+L00746,Underfill,1
+L00746,Dimensional,4
+L00746,Scale Pit,2
+L00746,Die Wear Mark,9
+L00747,Lap,2
+L00747,Underfill,2
+L00747,Dimensional,1
+L00747,Die Wear Mark,3
+L00748,Crack,1
+L00748,Underfill,1
+L00748,Dimensional,1
+L00748,Scale Pit,2
+L00749,Crack,1
+L00749,Underfill,1
+L00749,Dimensional,3
+L00749,Die Wear Mark,1
+L00750,Lap,1
+L00750,Underfill,1
+L00750,Dimensional,3
+L00751,Lap,1
+L00751,Underfill,2
+L00751,Scale Pit,1
+L00751,Die Wear Mark,1
+L00752,Dimensional,2
+L00752,Scale Pit,4
+L00753,Underfill,1
+L00753,Dimensional,1
+L00753,Die Wear Mark,2
+L00754,Lap,1
+L00754,Crack,1
+L00754,Underfill,2
+L00754,Dimensional,2
+L00754,Scale Pit,1
+L00754,Die Wear Mark,5
+L00755,Underfill,1
+L00756,Lap,2
+L00756,Crack,1
+L00756,Underfill,2
+L00756,Dimensional,4
+L00756,Scale Pit,1
+L00756,Die Wear Mark,2
+L00757,Lap,3
+L00757,Underfill,1
+L00757,Scale Pit,1
+L00757,Die Wear Mark,3
+L00758,Lap,1
+L00758,Underfill,1
+L00758,Scale Pit,1
+L00758,Die Wear Mark,1
+L00759,Lap,1
+L00759,Dimensional,2
+L00759,Die Wear Mark,7
+L00760,Lap,1
+L00760,Crack,1
+L00760,Underfill,1
+L00760,Dimensional,1
+L00760,Die Wear Mark,1
+L00761,Lap,1
+L00761,Crack,1
+L00761,Underfill,1
+L00761,Dimensional,2
+L00761,Scale Pit,1
+L00762,Lap,3
+L00762,Underfill,4
+L00762,Dimensional,4
+L00762,Scale Pit,3
+L00762,Die Wear Mark,2
+L00763,Lap,1
+L00763,Dimensional,1
+L00765,Lap,1
+L00765,Underfill,3
+L00765,Dimensional,3
+L00766,Lap,1
+L00766,Crack,1
+L00767,Lap,1
+L00767,Underfill,2
+L00767,Dimensional,1
+L00767,Scale Pit,2
+L00768,Die Wear Mark,1
+L00769,Crack,2
+L00769,Underfill,3
+L00769,Dimensional,4
+L00769,Die Wear Mark,6
+L00770,Lap,6
+L00770,Underfill,1
+L00770,Dimensional,1
+L00770,Scale Pit,1
+L00770,Die Wear Mark,2
+L00771,Underfill,2
+L00771,Dimensional,2
+L00771,Die Wear Mark,1
+L00772,Lap,2
+L00772,Dimensional,5
+L00772,Scale Pit,1
+L00772,Die Wear Mark,6
+L00773,Lap,2
+L00773,Crack,1
+L00773,Underfill,1
+L00773,Dimensional,3
+L00773,Scale Pit,1
+L00775,Dimensional,4
+L00775,Scale Pit,1
+L00775,Die Wear Mark,1
+L00776,Lap,1
+L00776,Crack,1
+L00776,Dimensional,1
+L00776,Scale Pit,1
+L00777,Lap,1
+L00777,Scale Pit,1
+L00777,Die Wear Mark,1
+L00778,Crack,1
+L00778,Scale Pit,1
+L00779,Lap,1
+L00779,Dimensional,1
+L00780,Underfill,1
+L00780,Dimensional,3
+L00780,Die Wear Mark,1
+L00781,Lap,1
+L00781,Dimensional,1
+L00782,Crack,1
+L00782,Underfill,1
+L00782,Dimensional,4
+L00782,Die Wear Mark,1
+L00783,Crack,2
+L00783,Dimensional,2
+L00783,Scale Pit,1
+L00784,Lap,2
+L00784,Dimensional,6
+L00784,Scale Pit,2
+L00784,Die Wear Mark,7
+L00785,Lap,2
+L00785,Crack,2
+L00785,Underfill,2
+L00785,Dimensional,1
+L00785,Die Wear Mark,4
+L00786,Underfill,2
+L00786,Dimensional,1
+L00787,Lap,2
+L00787,Dimensional,2
+L00787,Die Wear Mark,1
+L00788,Scale Pit,1
+L00789,Underfill,1
+L00789,Scale Pit,1
+L00790,Dimensional,1
+L00790,Scale Pit,1
+L00790,Die Wear Mark,1
+L00791,Lap,1
+L00791,Underfill,1
+L00791,Dimensional,2
+L00791,Die Wear Mark,1
+L00792,Underfill,1
+L00792,Dimensional,1
+L00792,Die Wear Mark,2
+L00793,Lap,1
+L00793,Crack,1
+L00794,Dimensional,3
+L00795,Lap,1
+L00795,Die Wear Mark,2
+L00796,Die Wear Mark,1
+L00797,Crack,1
+L00797,Underfill,2
+L00797,Dimensional,5
+L00797,Scale Pit,1
+L00797,Die Wear Mark,1
+L00798,Lap,1
+L00798,Underfill,1
+L00798,Dimensional,6
+L00798,Scale Pit,3
+L00798,Die Wear Mark,1
+L00799,Lap,1
+L00799,Dimensional,1
+L00799,Die Wear Mark,2
+L00800,Lap,3
+L00800,Underfill,1
+L00800,Dimensional,4
+L00800,Scale Pit,3
+L00800,Die Wear Mark,1
+L00801,Lap,1
+L00801,Crack,1
+L00801,Dimensional,2
+L00801,Scale Pit,6
+L00801,Die Wear Mark,2
+L00802,Crack,1
+L00802,Underfill,1
+L00802,Dimensional,1
+L00803,Lap,1
+L00803,Dimensional,1
+L00803,Scale Pit,1
+L00804,Crack,1
+L00804,Dimensional,1
+L00804,Scale Pit,1
+L00805,Underfill,1
+L00805,Dimensional,1
+L00806,Crack,1
+L00806,Underfill,1
+L00806,Dimensional,5
+L00806,Die Wear Mark,3
+L00807,Lap,1
+L00807,Underfill,1
+L00807,Dimensional,1
+L00807,Die Wear Mark,1
+L00809,Underfill,1
+L00809,Dimensional,1
+L00809,Scale Pit,1
+L00809,Die Wear Mark,1
+L00810,Lap,1
+L00810,Dimensional,1
+L00810,Scale Pit,1
+L00811,Die Wear Mark,1
+L00812,Lap,1
+L00812,Underfill,2
+L00812,Dimensional,4
+L00814,Underfill,1
+L00814,Scale Pit,2
+L00814,Die Wear Mark,2
+L00815,Lap,1
+L00815,Dimensional,1
+L00816,Dimensional,1
+L00816,Die Wear Mark,1
+L00817,Lap,2
+L00817,Underfill,1
+L00817,Die Wear Mark,1
+L00818,Lap,1
+L00818,Underfill,3
+L00818,Dimensional,2
+L00818,Die Wear Mark,5
+L00819,Dimensional,1
+L00820,Die Wear Mark,1
+L00821,Lap,1
+L00821,Underfill,2
+L00821,Dimensional,4
+L00821,Scale Pit,3
+L00821,Die Wear Mark,7
+L00822,Underfill,2
+L00822,Scale Pit,2
+L00822,Die Wear Mark,4
+L00823,Crack,2
+L00823,Underfill,1
+L00823,Dimensional,3
+L00823,Scale Pit,1
+L00823,Die Wear Mark,2
+L00824,Underfill,1
+L00824,Dimensional,1
+L00824,Die Wear Mark,1
+L00825,Lap,2
+L00825,Underfill,1
+L00825,Die Wear Mark,2
+L00826,Underfill,1
+L00826,Dimensional,2
+L00826,Scale Pit,1
+L00826,Die Wear Mark,2
+L00827,Crack,2
+L00827,Dimensional,1
+L00828,Dimensional,1
+L00829,Dimensional,1
+L00829,Scale Pit,2
+L00829,Die Wear Mark,1
+L00830,Dimensional,1
+L00830,Die Wear Mark,1
+L00831,Lap,2
+L00831,Crack,1
+L00831,Underfill,2
+L00831,Dimensional,2
+L00831,Scale Pit,1
+L00831,Die Wear Mark,1
+L00832,Dimensional,1
+L00832,Scale Pit,1
+L00832,Die Wear Mark,1
+L00833,Underfill,1
+L00833,Dimensional,1
+L00833,Die Wear Mark,2
+L00834,Dimensional,1
+L00834,Die Wear Mark,2
+L00835,Crack,1
+L00835,Die Wear Mark,1
+L00836,Lap,1
+L00836,Underfill,3
+L00836,Dimensional,6
+L00836,Scale Pit,1
+L00836,Die Wear Mark,3
+L00837,Lap,1
+L00837,Dimensional,1
+L00837,Die Wear Mark,1
+L00838,Dimensional,1
+L00838,Die Wear Mark,1
+L00839,Dimensional,3
+L00839,Scale Pit,4
+L00839,Die Wear Mark,2
+L00840,Lap,1
+L00840,Underfill,1
+L00840,Dimensional,1
+L00840,Scale Pit,1
+L00841,Crack,1
+L00841,Scale Pit,1
+L00841,Die Wear Mark,2
+L00842,Lap,1
+L00842,Dimensional,1
+L00843,Lap,4
+L00843,Dimensional,2
+L00843,Die Wear Mark,4
+L00844,Lap,2
+L00844,Underfill,1
+L00844,Dimensional,4
+L00844,Die Wear Mark,3
+L00845,Lap,2
+L00845,Crack,1
+L00845,Underfill,1
+L00845,Dimensional,6
+L00845,Scale Pit,4
+L00845,Die Wear Mark,5
+L00846,Underfill,1
+L00846,Dimensional,1
+L00846,Scale Pit,1
+L00846,Die Wear Mark,1
+L00847,Lap,1
+L00847,Crack,1
+L00847,Underfill,2
+L00847,Die Wear Mark,2
+L00848,Lap,2
+L00848,Dimensional,2
+L00848,Scale Pit,1
+L00849,Die Wear Mark,1
+L00850,Lap,2
+L00850,Crack,2
+L00850,Dimensional,3
+L00850,Scale Pit,1
+L00850,Die Wear Mark,2
+L00851,Die Wear Mark,3
+L00852,Die Wear Mark,1
+L00853,Lap,1
+L00853,Crack,2
+L00853,Dimensional,3
+L00853,Die Wear Mark,3
+L00854,Lap,1
+L00854,Underfill,2
+L00854,Dimensional,2
+L00854,Die Wear Mark,1
+L00855,Lap,1
+L00855,Crack,1
+L00855,Underfill,2
+L00855,Dimensional,2
+L00855,Die Wear Mark,2
+L00856,Dimensional,1
+L00856,Scale Pit,1
+L00856,Die Wear Mark,2
+L00857,Lap,2
+L00857,Underfill,1
+L00857,Dimensional,1
+L00857,Scale Pit,2
+L00858,Die Wear Mark,2
+L00859,Crack,1
+L00859,Underfill,2
+L00859,Dimensional,3
+L00859,Scale Pit,2
+L00859,Die Wear Mark,2
+L00860,Lap,1
+L00860,Crack,1
+L00860,Underfill,1
+L00860,Dimensional,2
+L00860,Scale Pit,1
+L00860,Die Wear Mark,10
+L00861,Lap,1
+L00861,Dimensional,2
+L00861,Die Wear Mark,1
+L00862,Lap,2
+L00862,Underfill,1
+L00862,Scale Pit,1
+L00863,Lap,1
+L00863,Die Wear Mark,1
+L00864,Crack,1
+L00864,Dimensional,1
+L00864,Scale Pit,1
+L00864,Die Wear Mark,2
+L00865,Crack,2
+L00865,Dimensional,9
+L00865,Die Wear Mark,1
+L00866,Crack,1
+L00866,Underfill,1
+L00866,Dimensional,2
+L00866,Die Wear Mark,1
+L00867,Crack,1
+L00867,Underfill,2
+L00867,Scale Pit,4
+L00868,Lap,2
+L00868,Underfill,1
+L00868,Dimensional,1
+L00868,Scale Pit,1
+L00869,Lap,2
+L00869,Crack,1
+L00869,Underfill,1
+L00869,Dimensional,1
+L00869,Die Wear Mark,1
+L00870,Dimensional,2
+L00870,Scale Pit,1
+L00870,Die Wear Mark,2
+L00871,Lap,3
+L00871,Crack,1
+L00871,Underfill,2
+L00871,Dimensional,6
+L00871,Scale Pit,1
+L00871,Die Wear Mark,1
+L00872,Underfill,1
+L00872,Dimensional,1
+L00872,Die Wear Mark,1
+L00873,Lap,3
+L00873,Crack,1
+L00873,Dimensional,6
+L00873,Scale Pit,1
+L00874,Dimensional,2
+L00874,Die Wear Mark,1
+L00875,Lap,1
+L00875,Underfill,1
+L00875,Dimensional,2
+L00875,Scale Pit,1
+L00875,Die Wear Mark,2
+L00876,Lap,1
+L00876,Scale Pit,1
+L00877,Lap,1
+L00877,Crack,1
+L00877,Die Wear Mark,1
+L00878,Lap,2
+L00878,Underfill,1
+L00878,Dimensional,4
+L00878,Die Wear Mark,1
+L00879,Lap,1
+L00879,Dimensional,1
+L00879,Die Wear Mark,1
+L00880,Lap,1
+L00880,Crack,2
+L00880,Underfill,1
+L00880,Dimensional,2
+L00880,Scale Pit,1
+L00880,Die Wear Mark,1
+L00881,Underfill,1
+L00881,Dimensional,2
+L00881,Die Wear Mark,2
+L00882,Lap,1
+L00882,Underfill,1
+L00882,Dimensional,2
+L00882,Scale Pit,1
+L00883,Underfill,2
+L00883,Dimensional,2
+L00883,Die Wear Mark,2
+L00884,Crack,2
+L00884,Dimensional,1
+L00884,Scale Pit,1
+L00884,Die Wear Mark,2
+L00885,Dimensional,1
+L00885,Die Wear Mark,1
+L00886,Lap,1
+L00886,Underfill,1
+L00886,Dimensional,1
+L00886,Die Wear Mark,2
+L00887,Lap,2
+L00887,Underfill,2
+L00887,Dimensional,4
+L00887,Scale Pit,1
+L00887,Die Wear Mark,5
+L00888,Lap,2
+L00888,Underfill,2
+L00888,Die Wear Mark,2
+L00889,Underfill,2
+L00889,Dimensional,3
+L00889,Scale Pit,2
+L00889,Die Wear Mark,1
+L00890,Lap,1
+L00890,Underfill,4
+L00890,Dimensional,2
+L00890,Die Wear Mark,5
+L00891,Underfill,1
+L00891,Scale Pit,3
+L00891,Die Wear Mark,2
+L00892,Lap,1
+L00892,Dimensional,5
+L00892,Die Wear Mark,1
+L00893,Underfill,2
+L00893,Dimensional,1
+L00893,Scale Pit,1
+L00893,Die Wear Mark,1
+L00894,Crack,1
+L00894,Underfill,1
+L00894,Scale Pit,1
+L00894,Die Wear Mark,1
+L00895,Lap,1
+L00895,Dimensional,1
+L00895,Scale Pit,3
+L00895,Die Wear Mark,1
+L00896,Lap,1
+L00896,Dimensional,3
+L00896,Scale Pit,1
+L00896,Die Wear Mark,3
+L00897,Underfill,2
+L00897,Dimensional,3
+L00897,Scale Pit,2
+L00897,Die Wear Mark,4
+L00898,Lap,1
+L00898,Underfill,1
+L00898,Dimensional,1
+L00898,Scale Pit,1
+L00898,Die Wear Mark,1
+L00899,Lap,1
+L00899,Underfill,1
+L00899,Scale Pit,1
+L00899,Die Wear Mark,2
+L00900,Lap,1
+L00900,Crack,1
